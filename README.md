@@ -296,8 +296,7 @@ à été installé sur 2 machines
 ## Les travaux résultant de ces « hacks » contiennent-ils des données sensibles ou des données qui permettent d’identifier les personnes hackées?
 > Si vous le voulez vous en assurer par vous mêmes, je vous propose de vous projeter cette vidéo qui fut présente et puis retirée de youtube. Je précise que celle-ci était en publication privée. Ce mode de publication reliait obligatoirement de proche en proche le regardeur et le regardé en passant par le lieu d'exposition, seul et unique point de passage primordial et obligé pour accéder à la vidéo.
 
-___________
-
+# Conclusion
 De mon intervention, certain attendaient aussi **des solutions pour sécuriser leurs ordinateurs**.
 > Je n’en ai pas, hormis peut-être celle qui est de faire à intentionnellement confiance en les intentions des développeurs qui fabrique vos programmes. Ou faire confiance en les développeurs qui publie leur code afin de les soumettres aux vues de tous. Ou de fabriquer vos programmes vous même.
 
