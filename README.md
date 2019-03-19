@@ -285,7 +285,7 @@ à été installé sur 2 machines
 > Je perçois via cette question, qu’un lien de confiance, que je pensais exister naturellement entre gens passionés, collègues, à été rompu. Je me demande néanmoins, s’il n’a jamais existé? Car apès tout, avec combien de de gens, qui aujourd’hui portent plainte, a-ton seulement eu une discussion. Celle-ci j’en fais le pari, aurait-été la solution, avant d’annoncer publiquement avoir trouvé «le responsable de ce piratage».
 
 ## Comment avez vous exploité les données recueillies durant ce TP ? <br/>Les avez-vous diffusées en dehors de la classe de M1 ?<br/>Sont-elles stockées de manière sécurisée ?<br/>Et combien de copies de ces données existe-t-il?
-> Je vous propose un visionnage commenté d’une vidéo de présentation de nos productions. https://www.youtube.com/watch?v=RZkJAteVsW8 
+> Je vous propose un visionnage commenté d’une vidéo de présentation du lieu d'exposition avec nos productions. https://www.youtube.com/watch?v=RZkJAteVsW8 
 
 > Les données ne sont qu’un prétexte. À aucun moment il n’a s’agit de parler spécifiquement de quelqu’un en particulier. Mais derière ses noms, ces visages, c’est chacun de nous que nous mettions en scène afin de questionner nos peur et nos rêves à propos des ordinateurs et des réseaux.
 
