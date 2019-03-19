@@ -258,20 +258,18 @@ à été installé sur 2 machines
 > avait été supprimé. Il restait néanmoins, un archivage de donnée 
 > sur l’ordinateur cvg-wrks-b3-210-55 celle-ci correspondant 
 > aux dates que voici :
-```
-05-12-2018, 06-12-2018, 07-12-2018, 10-12-2018, 13-12-2018,
-14-12-2018, 17-12-2018, 18-12-2018, 19-12-2018, 20-12-2018
-
-09-01-2019, 18-01-2019
-
-05-02-2019, 07-02-2019, 08-02-2019, 14-02-2019, 15-02-2019,
-20-02-2019, 22-02-2019, 27-02-2019, 28-02-2019
-
-01-03-2019, 14-03-2019
-```
-
-     Je les ai copié sur ma machine et je les ai supprimé de l’ordinateur
-     de l’école. Je ne connais pas leurs contenu. Cela ne m’intéresse pas.
-     Par contre nous allons décider ensemble de leur avenir.
-     Voulez-vous les voir et donc les rendre public ?
-     Ou décidez-vous de me faire confiance et je les supprime devant vous ?
+> ```
+> 05-12-2018, 06-12-2018, 07-12-2018, 10-12-2018, 13-12-2018,
+> 14-12-2018, 17-12-2018, 18-12-2018, 19-12-2018, 20-12-2018
+> 09-01-2019, 18-01-2019
+> 05-02-2019, 07-02-2019, 08-02-2019, 14-02-2019, 15-02-2019,
+> 20-02-2019, 22-02-2019, 27-02-2019, 28-02-2019
+> 01-03-2019, 14-03-2019
+> ```
+> Je les ai copié sur ma machine et je les ai supprimé de l’ordinateur
+> de l’école. Je ne connais pas leurs contenu. Cela ne m’intéresse pas.
+> Par contre nous allons décider ensemble de leur avenir.
+> Voulez-vous les voir? Donc les rendre public et prendre 
+> le risque d'assumer votre choix, en portant la responsabilité 
+> de leur révélation  ?
+> Ou décidez-vous de me faire confiance et je les supprime devant vous ?
