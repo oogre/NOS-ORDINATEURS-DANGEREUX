@@ -273,3 +273,7 @@ à été installé sur 2 machines
 > le risque d'assumer votre choix, en portant la responsabilité 
 > de leur révélation  ?
 > Ou décidez-vous de me faire confiance et je les supprime devant vous ?
+
+## Le nombre exacte de personne qui ont eu accès à ces outils et aux procédures qui permettent de les mettre en oeuvre et de récupérer les données.
+> 17 étudiants sont inscrits à mon cours. Nous avons, en amont à cette
+ production, eu une discussion autour des responsabilités et des enjeux de la thématique que nous abordions. Pour résumer, celle-ci nous engageait sur cette pensée : «Nous faisons cela ni pour nuire, ni pour plair, juste pour sentir la matérialité des logiciels et plus particulièrement ceux qui nous font peur.» Au vu de ma méthodologie d’enseignement qui consiste à accompagner la production de projets individuels basés sur une thématique commune, seul les auteures des projets incriminés par cette affaire on été informées sur les méthodes et logiciels, que certains ont vu comme espions. Et je me répete certainement, tous les étudiants ont été sensibilisés sur les enjeux risqués que nous avions. La production des 2 projets mise en accusation, sont du chef de deux étudiantes qui, par se biai, on quelque part exploré, leurs propres peur du viol de leur intimité, du à de véritables logiciels malveillants.
