@@ -324,9 +324,9 @@ À refaire, le point sur lequel je tâcherais d’améliorer cet exercice, es
 
 
 # License
-Vincent Evrard,
-assistant du professeur Olivier Evrard pour le cours d’Image Numérique en master 1 & 2 de communication visuel et graphique.
+Vincent Evrard,<br/>
+assistant du professeur Olivier Evrard pour le cours d’Image Numérique en master 1 & 2 de communication visuel et graphique de l'ESA Saint Luc Liège.<br/>
 Ce document et toute la documentation relative à ces événements
 sur lequels je peux appliqué mon droit de propriété est sous License: 
-[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)<br/>
 Vous pouvez retrouver ceux-ci à l’adresse : https://github.com/oogre/NOS-ORDINATEURS-DANGEREUX
