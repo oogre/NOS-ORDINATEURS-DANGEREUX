@@ -321,3 +321,7 @@ de nous confronter aux accusations.
 
 > Loin de moi l’idée de contre attaquer. Il se trouve que pour ces mêmes erreurs ou maladresses je vous dois des excuses.
 À refaire, le point sur lequel je tâcherais d’améliorer cet exercice, est que vous serez tous officielement, peut-être même par SMS, invité à participer au vernissage de l’exposition.
+
+
+# License
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
