@@ -122,7 +122,7 @@ et plus particulièrement ceux qui nous font peur.»
 > du spectre de la critique.
 
 _________________
-# Retour sur les questions posée par l'accusation de violation de droit à l'image
+# Retour sur les questions posée par l'accusation <br/>de violation de droit à l'image
 
 J’ai reçu une liste de question, aux quelles il semblerait qu’une réponse puisse apporter une passification des échanges et pourquoi pas une confiance renouvellée.
 
