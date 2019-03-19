@@ -217,17 +217,24 @@ à mes étudiants. J’aimerai ajouter que je serai ravi de continuer à dé
 le sujet. Peut-être au travers d’un cours pour pouvoir rentrer plus en profondeur dans la méthodologie mise en place afin de mettre en oeuvre la réalisation de vos envies de recherches alliant nouveau média et art.
 
 ## Le nombre exacte de machines infectées et la procédure qui permet d’enlever les spyware et malware qui y ont été installés.
-Avant de pouvoir répondre à cette question, il me faut expliciter
-ici devant vous que je me sens gravement insulté par ces mots,
-Infecté, spyware, malware... Il en va de ma réputation.
-Ce ne sont pas des termes anodins lorsqu’ils sont associés
-à l’identité d’un artiste dont la pratique et la production
-tourne autour de la pacification des relations homme/machines.
-**Un malware** est un logiciel conçu dans le but de faire des actions néfaste pour son propre plaisir ou pour en tirer des avantages.
-**Un spyware** est un logiciel conçu pour soutirer discretement
-des informations à l’un pour les revendre à l’autre. Son but est donc l’enrichissement personnel.
-**Infecté** s’applique dans le cadre d’un logiciel malveillant capable de se répandre au travers de différents moyens dans le but d’atteindre une cible précise. Je dois bien vous l’avouer mes compétances et envies ne vont pas
-jusque là. C’est donc un mot qui, si je l’acceptais, me catégoriserait aux yeux de ma communauté directement dans une catégorie de prétencieux.
-En rompant indiscutablement le lien de confiance qui existe
-entre un artiste et son public, l’utilisation de ces mots met en périle l’avenir de ma pratique.
-**__Que feriez-vous d’un soupson de plagia transformée en acusation publique?__**
+> Avant de pouvoir répondre à cette question, il me faut expliciter
+> ici devant vous que **__je me sens gravement insulté par ces mots,__**
+> **__Infecté, spyware, malware...__** Il en va de ma réputation.
+> Ce ne sont pas des termes anodins lorsqu’ils sont associés
+> à l’identité d’un artiste dont la pratique et la production
+> tourne autour de la pacification des relations homme/machines.
+> **Un malware** est un logiciel conçu dans le but de faire 
+> des actions néfaste pour son propre plaisir ou pour en tirer des avantages.
+> **Un spyware** est un logiciel conçu pour soutirer discretement
+> des informations à l’un pour les revendre à l’autre. 
+> Son but est donc l’enrichissement personnel.
+> **Infecté** s’applique dans le cadre d’un logiciel malveillant 
+> capable de se répandre au travers de différents moyens 
+> dans le but d’atteindre une cible précise. Je dois bien vous 
+> l’avouer mes compétances et envies ne vont pas
+> jusque là. C’est donc un mot qui, si je l’acceptais, me catégoriserait 
+> aux yeux de ma communauté directement dans une catégorie de prétencieux.
+> En rompant indiscutablement le lien de confiance qui existe
+> entre un artiste et son public, l’utilisation de ces mots 
+> met en périle l’avenir de ma pratique.
+> **__Que feriez-vous d’un soupson de plagia transformée en acusation publique?__**
