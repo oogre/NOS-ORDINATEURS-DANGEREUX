@@ -238,3 +238,40 @@ le sujet. Peut-être au travers d’un cours pour pouvoir rentrer plus en profo
 > entre un artiste et son public, l’utilisation de ces mots 
 > met en périle l’avenir de ma pratique.
 > **__Que feriez-vous d’un soupson de plagia transformée en acusation publique?__**
+
+Néanmoins, par soucis de transparence et pour apaiser les personnes les plus apeurées. Voici platement ce qui à été fait.
+* Le logiciel de capture de vidéo appelé SMILE a été installé sur 2 machines
+    *  cvg-wrks-b3-210-70
+    *  cvg-wrks-b3-210-62
+> Hier une seul contenait encore le logiciel. Dans les deux cas, 
+> la procédure de démarrage automatique avait été désactivé 
+> depuis la mise en place de l’exposition le 18 janvier 2019.
+> Ils étaient donc désactivé depuis lors.
+
+* Le logiciel d’enregistrement de frappe au clavier appelé SWIFT-KEYLOGGER
+à été installé sur 2 machines
+    * cvg-wrks-b3-210-55
+    * cvg-wrks-b3-210-27
+> Hier aucun de ces logiciels n’étaient encore actif, 
+> d’une part parce que la procédure de démarrrage automatique 
+> avait été supprimée, de l’autre parce que le logiciel lui même 
+> avait été supprimé. Il restait néanmoins, un archivage de donnée 
+> sur l’ordinateur cvg-wrks-b3-210-55 celle-ci correspondant 
+> aux dates que voici :
+```
+05-12-2018, 06-12-2018, 07-12-2018, 10-12-2018, 13-12-2018,
+14-12-2018, 17-12-2018, 18-12-2018, 19-12-2018, 20-12-2018
+
+09-01-2019, 18-01-2019
+
+05-02-2019, 07-02-2019, 08-02-2019, 14-02-2019, 15-02-2019,
+20-02-2019, 22-02-2019, 27-02-2019, 28-02-2019
+
+01-03-2019, 14-03-2019
+```
+
+     Je les ai copié sur ma machine et je les ai supprimé de l’ordinateur
+     de l’école. Je ne connais pas leurs contenu. Cela ne m’intéresse pas.
+     Par contre nous allons décider ensemble de leur avenir.
+     Voulez-vous les voir et donc les rendre public ?
+     Ou décidez-vous de me faire confiance et je les supprime devant vous ?
