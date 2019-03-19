@@ -28,6 +28,9 @@ sera exposé durant au moins an
 sur un mur de l’école,
 choisi par vous ensemble.
 
+## Idéologie
+«Nous faisons cela ni pour nuire, ni pour plair, juste pour sentir la matérialité des logiciels et plus particulièrement ceux qui nous font peur.»
+
 ## Sources
 * **Aram Bartholl : __Forgot your password? (2013)__**
 > Durant l’été 2012 le réseau social LinkedIn.com
