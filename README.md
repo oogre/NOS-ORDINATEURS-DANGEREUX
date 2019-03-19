@@ -116,14 +116,11 @@ choisi par vous ensemble.
 > du spectre de la critique.
 
 _________________
+# Retour sur les questions posée par l'accusation de violation de droit à l'image
 
 J’ai reçu une liste de question, aux quelles il semblerait qu’une réponse puisse apporter une passification des échanges et pourquoi pas une confiance renouvellée.
 
-**La liste exhaustive des scripts et programmes utilisés pour le TP dont vous avez fait mention et ceux que vous avez installés sur les machines.**
-
-**Les scripts modifiés qui ont étés installés sur les machines (ceux qui tournaient directement sur les machines).**
-
-**Les procédures et démarches que vous avez développés pour installer ces scripts sur les machines (avez-vous utilisez le mot de passe administrateur pour les installer).**
+## La liste exhaustive des scripts et programmes utilisés pour le TP dont vous avez fait mention et ceux que vous avez installés sur les machines.<br/>Les scripts modifiés qui ont étés installés sur les machines (ceux qui tournaient directement sur les machines).<br/>Les procédures et démarches que vous avez développés pour installer ces scripts sur les machines (avez-vous utilisez le mot de passe administrateur pour les installer).
 
 * Liste de logiciels n’ayant pas nécissité d’installation : 
     * Automator : 
@@ -175,7 +172,6 @@ J’ai reçu une liste de question, aux quelles il semblerait qu’une répons
    > j’ai moi même parcourut l’entièreté du code,
    > afin de m’assurer qu’aucun autre processus que celui
    > que l’on désirait puisse nuire à quiconque à notre insu.
-   
    > Soit entrer vous même dans le code afin de vérifier
    > par vous même, je vous y invite par le lien au début
    > de cet article.
@@ -219,3 +215,19 @@ travers de celle-ci, sentir l’orientation idéologique ainsi que l’attentio
 j’ai à pouvoir faire confiance aux différents logiciels que j’utilise et propose
 à mes étudiants. J’aimerai ajouter que je serai ravi de continuer à développer
 le sujet. Peut-être au travers d’un cours pour pouvoir rentrer plus en profondeur dans la méthodologie mise en place afin de mettre en oeuvre la réalisation de vos envies de recherches alliant nouveau média et art.
+
+## Le nombre exacte de machines infectées et la procédure qui permet d’enlever les spyware et malware qui y ont été installés.
+Avant de pouvoir répondre à cette question, il me faut expliciter
+ici devant vous que je me sens gravement insulté par ces mots,
+Infecté, spyware, malware... Il en va de ma réputation.
+Ce ne sont pas des termes anodins lorsqu’ils sont associés
+à l’identité d’un artiste dont la pratique et la production
+tourne autour de la pacification des relations homme/machines.
+**Un malware** est un logiciel conçu dans le but de faire des actions néfaste pour son propre plaisir ou pour en tirer des avantages.
+**Un spyware** est un logiciel conçu pour soutirer discretement
+des informations à l’un pour les revendre à l’autre. Son but est donc l’enrichissement personnel.
+**Infecté** s’applique dans le cadre d’un logiciel malveillant capable de se répandre au travers de différents moyens dans le but d’atteindre une cible précise. Je dois bien vous l’avouer mes compétances et envies ne vont pas
+jusque là. C’est donc un mot qui, si je l’acceptais, me catégoriserait aux yeux de ma communauté directement dans une catégorie de prétencieux.
+En rompant indiscutablement le lien de confiance qui existe
+entre un artiste et son public, l’utilisation de ces mots met en périle l’avenir de ma pratique.
+**__Que feriez-vous d’un soupson de plagia transformée en acusation publique?__**
