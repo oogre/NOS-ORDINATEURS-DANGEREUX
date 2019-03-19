@@ -279,7 +279,40 @@ à été installé sur 2 machines
  production, eu une discussion autour des responsabilités et des enjeux de la thématique que nous abordions. Pour résumer, celle-ci nous engageait sur cette pensée : **__«Nous faisons cela ni pour nuire, ni pour plair, juste pour sentir la matérialité des logiciels et plus particulièrement ceux qui nous font peur.»__** Au vu de ma méthodologie d’enseignement qui consiste à accompagner la production de projets individuels basés sur une thématique commune, seul les auteures des projets incriminés par cette affaire on été informées sur les méthodes et logiciels, que certains ont vu comme espions. Et je me répete certainement, tous les étudiants ont été sensibilisés sur les enjeux risqués que nous avions. La production des 2 projets mise en accusation, sont du chef de deux étudiantes qui, par se biai, on quelque part exploré, leurs propres peur du viol de leur intimité, du à de véritables logiciels malveillants.
 
 ## Les emails de l’ESA ont-ils été utilisés pour tester les hacks emails présentés? Cette technologie a-t-elle été utilisée durant le TP?<br/>Est-ce que les clés usb utilisées pour la récupération des données proviennent des armoires des classes d’infographie ? (Plusieurs explications ont été données).<br/>Fournir les clés usb et les données qui ont été récupérées à qui de droit pour évaluer ce qui à été récupéré.
-> De mon point de vue, cette question est hors-sujet, car aucun hack email, ni clef usb n’ont été utiliser lors de nos productions.
+> De mon point de vue, cette question est hors-sujet, car aucun hack email, ni clef usb n’ont été utilisé lors de nos productions.
 
 ## Y a-t-il d’autres endroits ou outils physiques qui ont été utilisés pour espionner les étudiants et/professeurs?<br/>Si oui, quels sont-ils ( liste exhaustive ) et où sont les données récoltées?
 > Je perçois via cette question, qu’un lien de confiance, que je pensais exister naturellement entre gens passionés, collègues, à été rompu. Je me demande néanmoins, s’il n’a jamais existé? Car apès tout, avec combien de de gens, qui aujourd’hui portent plainte, a-ton seulement eu une discussion. Celle-ci j’en fais le pari, aurait-été la solution, avant d’annoncer publiquement avoir trouvé «le responsable de ce piratage».
+
+## Comment avez vous exploité les données recueillies durant ce TP ? <br/>Les avez-vous diffusées en dehors de la classe de M1 ?<br/>Sont-elles stockées de manière sécurisée ?<br/>Et combien de copies de ces données existe-t-il?
+> Je vous propose un visionnage commenté d’une vidéo de présentation de nos productions. https://www.youtube.com/watch?v=RZkJAteVsW8 
+
+> Les données ne sont qu’un prétexte. À aucun moment il n’a s’agit de parler spécifiquement de quelqu’un en particulier. Mais derière ses noms, ces visages, c’est chacun de nous que nous mettions en scène afin de questionner nos peur et nos rêves à propos des ordinateurs et des réseaux.
+
+> Aucune donnée compromettante n’a été publiée à ma connaisance rien de compreomettant n'à été enregistré. Toutes les données enregistrées avant ou après production des différents supports exposé, n’ont absolument aucune valeur à nos yeux, le sujet est ailleur. Les données collectées ont tout de même une signification pour certaines personnes et je le reconnais leurs sensibilités, elles ont donc été soit misent en scène dans le lieu d'exposition, soit détruitent.
+
+!!! besoin d'un argumentaire explicite sur nos intentions profondes
+
+## Les travaux résultant de ces « hacks » contiennent-ils des données sensibles ou des données qui permettent d’identifier les personnes hackées?
+> Si vous le voulez vous en assurer par vous mêmes, je vous propose de vous projeter cette vidéo qui fut présente et puis retirée de youtube. Je précise que celle-ci était en publication privée. Ce mode de publication reliait obligatoirement de proche en proche le regardeur et le regardé en passant par le lieu d'exposition, seul et unique point de passage primordial et obligé pour accéder à la vidéo.
+
+___________
+
+De mon intervention, certain attendaient aussi **des solutions pour sécuriser leurs ordinateurs**.
+> Je n’en ai pas, hormis peut-être celle qui est de faire à intentionnellement confiance en les intentions des développeurs qui fabrique vos programmes. Ou faire confiance en les développeurs qui publie leur code afin de les soumettres aux vues de tous. Ou de fabriquer vos programmes vous même.
+
+Pour ce qui est des ordinateurs publics, des réseaux publics et
+de toutes ces choses pour lequels on peut se passer d’apprentissage.
+> Ne leur racontez pas vos secrets. Vérifiez aussi quels logiciels sont en cours de fonctionnement. Si vous avez un doute sur l’un d’eux, renseignez-vous sur le web. Si vous ne trouvez pas d’information à son sujet n’hésitez pas : **coupez-le!**
+
+> Sentez-vous responsable ou en tout cas acteur de se qui se trouve sur votre ordinateur privé. Si quelque chose ne vous convient pas, vous n’êtes certainement pas le seul. Quelqu’un d’autre a du se retoruver dans le même cas et à certainement développé une solution **Open Source digne de confiance**.
+
+___
+
+> Toujours est-il que, je ne pense pas que l’intention des personnes, certainement ici présente, ayant porté plainte pour «viol de droit à l’image» ayent été jusqu’à vouloir nuire à quiconque. Et pourtant, j’affirme, que prit de panique et sur de simples accusations, mon nom et celui d’Olivier Evrard ont été sali. Les mots et les méthodes de communications employées ont été à charge de notre culpabilité, sans même avoir pris la peine de nous entendre,
+de nous confronter aux accusations.
+
+> Là où certains porte plainte pour une vidéo au contenu insignifiant vue 30 fois sur youtube et supprimée dans l’heure des premiers émois. Notre accusation, même si elle se démonte à l’issue de cette réunion, est arrivée sur le téléphone et la boite mail de peut-être 1500 personnes qui nécéssitent de pouvoir nous faire confiance. Il ne doit s’agire que de maladresse ou d’un manque d’habilité en ce qui concerne les interactions humain/humain. 
+
+> Loin de moi l’idée de contre attaquer. Il se trouve que pour ces mêmes erreurs ou maladresses je vous dois des excuses.
+À refaire, le point sur lequel je tâcherais d’améliorer cet exercice, est que vous serez tous officielement, peut-être même par SMS, invité à participer au vernissage de l’exposition.
