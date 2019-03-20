@@ -1,5 +1,8 @@
 ## Résultats
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/RZkJAteVsW8/0.jpg)](http://www.youtube.com/watch?v=RZkJAteVsW8)
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=RZkJAteVsW8
+" target="_blank"><img src="http://img.youtube.com/vi/RZkJAteVsW8/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 > « Nous faisons cela ni pour nuire, ni pour plaire, 
 > juste pour sentir la matérialité des logiciels 
