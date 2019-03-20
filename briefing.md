@@ -1,7 +1,5 @@
 # ESA.STLUC.LIÈGE<br/>CVG.MASTER 1 <br/>IMAGES NUMÉRIQUES <br/>EXERCICE 2.2018
 
-## [Nos productions](./travaux.md)
-
 ## Objectif
 Créer une campagne de sensibilisation
 aux traces numériques que l’on laisse
@@ -113,3 +111,4 @@ et plus particulièrement ceux qui nous font peur.»
 > de blesser mais seulement pout engendrer un élargissement
 > du spectre de la critique.
 
+## [Nos productions](./travaux.md)
