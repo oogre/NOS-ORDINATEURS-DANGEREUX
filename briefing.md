@@ -22,7 +22,7 @@ choisi par vous ensemble.
 
 ## Idéologie
 ```
-« Nous faisons cela ni pour nuire, ni pour plair, 
+« Nous faisons cela ni pour nuire, ni pour plaire, 
 juste pour sentir la matérialité des logiciels 
 et plus particulièrement ceux qui nous font peur.»
 ```
