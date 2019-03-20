@@ -1,5 +1,5 @@
 ## Résultats
-https://www.youtube.com/watch?v=RZkJAteVsW8
+https://youtu.be/RZkJAteVsW8
 
 * [Baptiste Levaux - Web road](https://www.youtube.com/watch?v=RZkJAteVsW8&t=6s)
 > Installation mettant en évidence la consomation énergétique due aux stockage d'email. Le visiteur au moyen de ce boitier peut indiquer la quantitée d'octet stockés dans sa boite mail. Il se voit par la suite indiquer une distance qu'il pourrait parcourir en voiture pour dépenser la même énergie que ça boite mail sur un an.
@@ -22,3 +22,23 @@ https://www.youtube.com/watch?v=RZkJAteVsW8
 
 * [Lola Nederlants - Smile](https://www.youtube.com/watch?v=RZkJAteVsW8&t=197s)
 > Video et installation. Un logiciel de capture d'image intallé dans le local informatique de l'école enregistre 20 secondes de vidéo sans son toutes les heure. Les images enregistrée ont été ensuite postées sur youtube en priver. L'adresse de cette video sous forme de QRcode était la seul trace de ce travail dans la salle d'exposition. Ainsi il devait exister un lien direct de proche en proche entre le regardeur et le regardé en passant par le lieu d'exposition, point de passage primordial pour accéder à la vidéo.
+
+* [Dylan Levionnois - Le derrière d'un fichier](https://www.youtube.com/watch?v=RZkJAteVsW8&t=206s)
+> Sur base de deux fichiers électroniques abandonnés par leur auteurs sur des ordinateurs public, Dylan à exploré les Internets afin de retrouver ceux-ci. En langage plus à propos il a stalker ceux-ci afin d'archiver sur deux poster toutes les informations qu'il a pu rassembler.
+
+* [Nicolas Pietroniro - Onde](https://www.youtube.com/watch?v=RZkJAteVsW8&t=263s) 
+> Nicolas propose une peinture et une creation sonore. Il a exploré au moyen de logiciels appropriés les échanges de paquets de données circulant sur un réseau wifi. Il a pu extraire la quantité d'information que ceux-ci contenaient afin de les concidérer comme ses notes de musique de sa création sonore. 
+
+* [Clarisse Thomas - Vie privée/vie public](https://www.youtube.com/watch?v=RZkJAteVsW8&t=301s)
+> Édition et poster construite sur base de données accrétées par le logiciel (Swift-Keylogger)[https://github.com/SkrewEverything/Swift-Keylogger]. Cette édition à pour but informatif sur l'existence et le mode de fonctionnement de ce type de logiciel sensible voir sulfureux en fonction des circonstances.
+
+* [Laurent Dubois - EXIF](https://www.youtube.com/watch?v=RZkJAteVsW8&t=405s)
+> Au travers de quelques images récupérée en ligne, Laurent met en exergue sous forme de poster les meta-information potentiellement sensible sur l'identité, la géolocalisation et les actions de leurs auteurs.
+
+* [Perrin Marine - La traque](https://www.youtube.com/watch?v=RZkJAteVsW8&t=426s)
+> Édition construite autour de l'outil de recheche que Facebook propose à ces utilisateurs. Ici utilisé afin de stalker une personne spécifique, dont certaines informations enfuient se voit remonter à la surface.
+
+* [Chloé Dôme - Trace de pas](https://www.youtube.com/watch?v=RZkJAteVsW8&t=517)
+> Installation performative. Au moyen de peinture noir disposée sur le paillasson de la porte d'entrée, Chloée force les usagers d'un lieu à laisser derrière eux une trace de leur passage. Métaphore ou révélation que quoique nous fassions nous générons de l'information. Nous ne sommes que des marins voguant à la surface des lois de la thermodinamique.
+
+
