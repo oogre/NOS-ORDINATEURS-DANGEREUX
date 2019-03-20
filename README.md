@@ -191,7 +191,7 @@ à été installé sur 2 machines
 !!! besoin d'un argumentaire explicite sur nos intentions profondes
 
 ## Les travaux résultant de ces « hacks » contiennent-ils des données sensibles ou des données qui permettent d’identifier les personnes hackées?
-> Si vous le voulez vous en assurer par vous mêmes, je vous propose de vous projeter cette vidéo qui fut présente et puis retirée de youtube. Je précise que celle-ci était en publication privée. Ce mode de publication reliait obligatoirement de proche en proche le regardeur et le regardé en passant par le lieu d'exposition, seul et unique point de passage primordial et obligé pour accéder à la vidéo.
+> Si vous le voulez vous en assurer par vous mêmes, je vous propose de vous projeter cette vidéo qui fut hébergée sur youtube en priver et puis retirée. Je précise que celle-ci était en hébergement privée. Ainsi il devait exister un lien direct de proche en proche entre le regardeur et le regardé en passant par le lieu d'exposition, point de passage primordial pour accéder à la vidéo.
 
 # Conclusion
 De mon intervention, certain attendaient aussi **des solutions pour sécuriser leurs ordinateurs**.
