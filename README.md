@@ -6,7 +6,7 @@ Le droit à la liberté d'expression ?
 
 Conférence & Débat
 
-# auditoire 103 B3<br/>19.mars.12h30
+#  ~auditoire 103 B3<br/>19.mars.12h30~ [ANNULÉE](./email/direction/annulation.md)
 
 # ESA.STLUC.LIÈGE<br/>CVG.MASTER 1 <br/>IMAGES NUMÉRIQUES <br/>EXERCICE 2.2018
 
