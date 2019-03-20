@@ -6,7 +6,8 @@
 > Nous ne sommes que des marins voguant à la surface des lois de la thermodynamique. 
 
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/RZkJAteVsW8/0.jpg)](http://www.youtube.com/watch?v=RZkJAteVsW8)
-(http://www.youtube.com/watch?v=RZkJAteVsW8)
+
+http://www.youtube.com/watch?v=RZkJAteVsW8
 
 * [Baptiste Levaux - Web road](https://www.youtube.com/watch?v=RZkJAteVsW8&t=6s)
 > Installation mettant en évidence la consomation énergétique due aux stockage d'email. Le visiteur au moyen de ce boitier peut indiquer la quantitée d'octet stockés dans sa boite mail. Il se voit par la suite indiquer une distance qu'il pourrait parcourir en voiture pour dépenser la même énergie que ça boite mail sur un an.
