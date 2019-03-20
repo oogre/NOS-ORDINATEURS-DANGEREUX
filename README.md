@@ -1,4 +1,13 @@
-[Aux origines de cette histoire](./briefing.md)
+# [Aux origines de cette histoire](./briefing.md)
+
+# Accusations
+
+# Demande d'explication
+
+# [Retour sur les questions posées](./reponse.md)
+
+# [Se sécuriser](./securite.md)
+
 ______________
 
 Le cours d'image numérique rend-t-il
@@ -12,10 +21,6 @@ Conférence & Débat
 #  ~auditoire 103 B3<br/>19.mars.12h30~ [interdite et annulée](./email/direction/annulation.md)
 
 _________________
-
-# [Retour sur les questions posées](./reponse.md)
-
-# [Se sécuriser](./securite.md)
 
 # [Avant la suite](./attente.md)
 
