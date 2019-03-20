@@ -1,6 +1,12 @@
 ## Résultats
 https://youtu.be/RZkJAteVsW8
 
+> « Nous faisons cela ni pour nuire, ni pour plair, 
+> juste pour sentir la matérialité des logiciels 
+> et plus particulièrement ceux qui nous font peur.»
+
+> Nous ne sommes que des marins voguant à la surface des lois de la thermodinamique. 
+
 * [Baptiste Levaux - Web road](https://www.youtube.com/watch?v=RZkJAteVsW8&t=6s)
 > Installation mettant en évidence la consomation énergétique due aux stockage d'email. Le visiteur au moyen de ce boitier peut indiquer la quantitée d'octet stockés dans sa boite mail. Il se voit par la suite indiquer une distance qu'il pourrait parcourir en voiture pour dépenser la même énergie que ça boite mail sur un an.
 
@@ -39,6 +45,6 @@ https://youtu.be/RZkJAteVsW8
 > Édition construite autour de l'outil de recheche que Facebook propose à ces utilisateurs. Ici utilisé afin de stalker une personne spécifique, dont certaines informations enfuient se voit remonter à la surface.
 
 * [Chloé Dôme - Trace de pas](https://www.youtube.com/watch?v=RZkJAteVsW8&t=517)
-> Installation performative. Au moyen de peinture noir disposée sur le paillasson de la porte d'entrée, Chloée force les usagers d'un lieu à laisser derrière eux une trace de leur passage. Métaphore ou révélation que quoique nous fassions nous générons de l'information. Nous ne sommes que des marins voguant à la surface des lois de la thermodinamique.
+> Installation performative. Au moyen de peinture noir disposée sur le paillasson de la porte d'entrée, Chloée force les usagers d'un lieu à laisser derrière eux une trace de leur passage. Métaphore ou révélation que quoique nous fassions nous générons de l'information, le tout est de pouvoir l'identifier pour au besoin la dissimuler.
 
 
