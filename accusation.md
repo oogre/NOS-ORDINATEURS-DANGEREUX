@@ -352,3 +352,12 @@ Les emails de l’ESA ont-ils été utilisés pour tester les hacks emails prés
 >  Voici en pièce jointe l'info au sujet de la réunion/débat.<br/>
 >  ![IMAGE ALT TEXT HERE](./affiche.jpg)
 
+## Le 19-03-2019 à 10:23, Fabienne P**** a écrit : (mail accompagné d'un sms ~1300 personnes)
+>  **Annulation de la réunion du 19.03.2019 – Message du Conseil d’Administration**<br/>
+>  Message important du Conseil d'Administration <br/>
+>  <br/>
+> -----------------------------------------------------------
+> <br/>
+> > Le Conseil d’Administration du Comité Organisateur des Instituts Saint-Luc de Liège a été prévenu hier du piratage informatique. Nous avons constaté des infractions à la loi sur la vie privée et à la charte informatique, ce qui n’est pas tolérable dans notre Institution. Ce dossier est actuellement à l’analyse et le Conseil d’Administration se réserve le droit de déposer plainte.<br/>
+> > <br/>
+> > Lors de notre réunion de ce matin, nous avons appris qu’une réunion tenue par les enseignants devait avoir lieu, le Conseil d’administration décide que cette réunion est interdite et annulée. "
