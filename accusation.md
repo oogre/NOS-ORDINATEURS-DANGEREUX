@@ -307,3 +307,48 @@
 > Soyez en tout cas tous assurés que je suis de près cette affaire qui n’a rien d’anodin et que j’assumerai toutes mes responsabilités en faisant ce qu’il y a à faire en telles circonstances… Quoi qu’il en soit, j’espère que nous saurons aussi en tirer quelque chose de positif au niveau de l’école.<br/>
 > <br/>
 > Fabienne P****, directrice de l’ESA Saint-Luc Liège
+
+## Le 15-03-2019 à 12:22, Geraldine G**** a écrit
+>  **demande de transparence**<br/>
+> Bonjour Olivier et Vincent,<br/>
+> <br/>
+> Je vous contacte concernant les différents logiciels que vous avez installés au local 210. Dans un premier temps, merci de nous avoir expliqué votre motivation et la logique qui à animer votre démarche. Il nous manque désormais la liste des outils que vous avez utilisés. Cette semaine nous avons identifié l’installation d’un keylogger toujours en fonction sur quasi l’entièreté du parc du local 210 et après analyse, nous avons perçu ce qu’il permettait de faire. <br/>
+> <br/>
+> Afin de ne plus découvrir d’autres choses et dans un souci de transparence, j’ai élaboré une liste avec l’aide et l’expertise de Xavier Zinzen. Pourriez vous s’il vous plait me transmettre les éléments suivants:
+> <ul><li>La liste exhaustive des scripts et programmes utilisés pour le TP dont vous avez fait mention et ceux que vous avez installés sur les machines.
+Les scripts modifiés qui ont étés installés sur les machines (ceux qui tournaient directement sur les machines). </li>
+> <li>Les procédures et démarches que vous avez développés pour installer ces scripts sur les machines (avez-vous utilisez le mot de passe administrateur pour les installer). </li>
+> <li>Le nombre exacte de machines infectées et la procédure qui permet d’enlever les spyware et malware qui y ont été installés. </li>
+> <li>Le nombre exacte de personne qui ont eu accès à ces outils et aux procédures qui permettent de les mettre en oeuvre et de récupérer les données. 
+Les emails de l’ESA ont-ils été utilisés pour tester les hacks emails présentés? Cette technologie a-t-elle été utilisée durant le TP? </li>
+> <li>Est-ce que les clés usb utilisées pour la récupération des données proviennent des armoires des classes d’infographie ? (Plusieurs explications ont été données). </li>
+> <li>Fournir les clés usb et les données qui ont été récupérées à qui de droit pour évaluer ce qui à été récupéré. </li>
+> <li>Y a-t-il d’autres endroits ou outils physiques qui ont été utilisés pour espionner les étudiants et/professeurs? </li>
+> <li>Si oui, quels sont-ils ( liste exhaustive ) et où sont les données récoltées?</li>
+> <li>Comment avez vous exploité les données recueillies durant ce TP ? Les avez-vous diffusées en dehors de la classe de M1 ? Sont-elles stockées de manière sécurisée ? Et combien de copies de ces données existe-t-il? </li>
+> <li>Les travaux résultant de ces « hacks » contiennent-ils des données sensibles ou des données qui permettent d’identifier les personnes hackées?</li>
+> <br/>
+> Cette démarche est importante car les élèves concernés directement ou non par cette vidéo/keylogger vont réclamer des comptes et des explications qu’il faudra leur fournir de manière légitime si l’on veut pouvoir gérer cette affaire et tenter qu’elle ne sorte pas du cadre scolaire.<br/>
+> <br/>
+> Géraldine G****, Professeur, Coordinatrice des stages Saint Luc Liège
+
+## Le 18-03-2019 à 14:43, Geraldine G**** a écrit
+>  **entretien demain**<br/>
+>  Bonjour Vincent,<br/>
+>  <br/>
+>  Suite au coup de téléphone passé par Fabienne ce midi, nous avons pu nous entretenir brièvement par téléphone afin de convenir d’une rencontre et je t’en remercie. Comme Fabienne souhaitait que l’on se rencontre immédiatement, je t’ai proposé une entrevue demain avant ta présentation, me sentant pressée de répondre à votre demande au plus vite.<br/>
+>  <br/>
+> Cependant, comme tu me l’as dis au téléphone, tu aimes être préparé à tes entrevues, et personnellement je ne suis pas à l’aise de venir à une réunion sans y être préparée non plus. Afin que cette réunion soit efficace et apporte de véritables réponses et solutions quant à la manière dont nous allons pouvoir mieux sécuriser notre parc informatique, j’aurai besoin que tu m’envois par mail ta réponse à mes différentes questions envoyées vendredi 15 mars dernier, avec entre autres, les scripts modifiés et les codes sources. Ces codes étant dangereux, je te propose de les copier sur une clef usb et de les remettre à Anne-France pour mercredi si cette date te convient, ce en complément de ton mail de réponse expliquant le protocole que tu as suivi. Ainsi je pourrai prendre le temps d’analyser ta démarche et notre réunion sera plus efficace.<br/>
+> <br/>
+> N’étant pas compétente dans le domaine du hacking, le jour de notre rencontre, je souhaiterai être accompagnée de Xavier Zinzen pour la partie informatique et de Anne-France pour l’aspect législatif. Est-ce que Olivier ne devrait-il pas être présent également étant donné qu’il s’agit d’un projet que vous avez mené à deux, qu’en penses-tu? Et j’imagine la Directrice si elle, ou tu le souhaites pourrait être présent également.<br/>
+> <br/>
+> En te remerciant,<br/>
+> <br/>
+> Géraldine G****, Professeur, Coordinatrice des stages Saint Luc Liège
+
+## Le 18-03-2019 à 23:00, Vincent Evrard a écrit :
+>  **INVITATION : Le cours d'image numérique rend-t-il nos ordinateurs dangereux ?**<br/>
+>  Bonsoir,<br/>
+>  Voici en pièce jointe l'info au sujet de la réunion/débat.<br/>
+>  ![IMAGE ALT TEXT HERE](./affiche.jpg)
+
