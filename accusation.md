@@ -123,7 +123,7 @@
 > Fabienne P**** Directrice de Saint Luc Liège<br/>
 
 ## Le 13-03-2019 à 23:35, Fabienne P**** a écrit :
->  **incident vidéo salle 210 - suites à donner**
+>  **incident vidéo salle 210 - suites à donner**<br/>
 >  Olivier, Vincent,<br/>
 >  <br/>
 >  Dans le cadre de votre cours d'image numérique en Master 1 CVG, une étudiante a réalisé en décembre dernier une vidéo postée sur Youtube, vidéo constituée d’images obtenues de façon tout à fait illégale à partir de deux webcam (ou plus ?) de la salle informatique 210. Pour obtenir ces images, divers logiciels espions ont été installés sur deux ordinateurs (ou plus ?).<br/>
@@ -145,11 +145,165 @@
 > <li>Dès ce jeudi, et en ma présence (je suis disponible après 10h) comme témoin des manipulations et des corrections apportées et en présence de Géraldine comme responsable du parc informatique Mac, tous les ordinateurs « infectés » seront « nettoyés » de tous les logiciels espions installés. S’il s’avérait nécessaire de faire appel à un intervenant externe pour réaliser cela ou pour certifier que la sécurité est bien réinstaurée, il est, à mon avis, inenvisageable que les frais générés par ces opérations soient assumés par l’école, ils devraient vous être personnellement imputables.</li>
 > <li>La semaine prochaine, vous aurez organisé vous-mêmes
 >   <ul><li>une rencontre avec chacun des groupes classe directement touché par cela: vous aurez à entendre leurs réactions, à leur remettre toutes les images en votre possession ou en la possession d’étudiants qui ont participé à votre cours et à les rassurer qu’ils peuvent continuer à donner/suivre un cours dans cette salle sans craindre d’être à nouveau filmés ou tracés à leur insu</li>
->   <li>une rencontre avec toutes les personnes de l’école pour répondre aux questions et/ou critiques sur votre démarche et votre éthique professionnelle et faire bénéficier tout le monde de vos conseils en termes de protection numérique (puisque c’était l’objectif pédagogique de la démarche) – NB. il faudra prévoir une version écrite de ces conseils partagée via l’Intranet. Etant donné les délais, il est probable que toutes les personnes intéressées ne pourront pas se libérer, il faudra donc prévoir une autre séance un peu plus tard…</li></ul></ul>
+>   <li>une rencontre avec toutes les personnes de l’école pour répondre aux questions et/ou critiques sur votre démarche et votre éthique professionnelle et faire bénéficier tout le monde de vos conseils en termes de protection numérique (puisque c’était l’objectif pédagogique de la démarche) – NB. il faudra prévoir une version écrite de ces conseils partagée via l’Intranet. Etant donné les délais, il est probable que toutes les personnes intéressées ne pourront pas se libérer, il faudra donc prévoir une autre séance un peu plus tard…</li></ul></li></ul>
 > NB. Il me semblerait utile que les étudiants de CVG M1 soient associés à ces démarches.<br/>
 > <br/>
 > De mon côté, saisie d’une plainte, je vais officiellement informer le Pouvoir Organisateur de la situation (prochaine réunion le 19 mars) et j’espère bien pouvoir leur donner des nouvelles positives des actions correctives que vous aurez entreprises d’ici-là.<br/>
 > <br/>
-> Cc : tous les professeurs qui ont donné cours au Q1 ou donnent cours au Q2 dans la salle 210 et la présidente du Conseil des étudiants pour qu'elle relaye l'info aux étudiants qui l'ont interpelée.
+> Cc : tous les professeurs qui ont donné cours au Q1 ou donnent cours au Q2 dans la salle 210 et la présidente du Conseil des étudiants pour qu'elle relaye l'info aux étudiants qui l'ont interpelée.<br/>
+> Fabienne P**** Directrice de Saint Luc Liège<br/>
+
+## Le 14-03-2019 à 07:26, Olivier Evrard a écrit :
+>  **Re: incident vidéo salle 210 - suites à donner**<br/>
+>  Bonjour Fabienne,<br/>
+>  <br/>
+>  Oui nous allons organiser cela. Vincent devrait t'envoyer un mail à diffuser au sujet des rencontres-explications d'ailleurs.<br/>
+>  <br/>
+>  Pour aujourd'hui apd 10H, je peux laisser travailler mes étudiants en autonomie au 211 pendant que je viens nettoyer les ordis du 210 avec vous.<br/>
+>  <br/>
+>  Vincent m'a expliqué la démarche à réaliser.<br/>
+>  <br/>
+>  Bàt,<br/>
+>  Olivier Evrard Professeur d'image numérique de Saint Luc Liège<br/>
 
 
+
+## Le 14-03-2019 à 00:31, Vincent Evrard a écrit :
+>  **Salle 210! Retour sur le vent de colère**<br/>
+>  Bonjour,<br/>
+>  <br/>
+>  Peu me connaissent, je suis Vincent Evrard <br/>
+>  assistant en CVG Master 1 & 2. <br/>
+>  J'y assure le cours d'Images Numériques<br/>
+>  depuis un an et demi. <br/>
+>  <br/>
+>  J'écris cette lettre ouverte à l'attention <br/>
+>  des professeurs et étudiants ayant <br/>
+>  entendu parler de mon histoire mais pas seulement.<br/>
+>  <br/>
+>  Celle-ci est apparue publiquement<br/>
+>  au tournant des mois de février et mars.<br/>
+>  Elle a pour point de départ une vidéo <br/>
+>  hébergée sur youtube montrant<br/>
+>  étudiants et professeurs en local <br/>
+>  d'informatique entrain de travailler. <br/>
+>  Cette vidéo a été l'origine d'un réel vent de colère,<br/>
+>  alors qu'il ne s'agit que de la production<br/>
+>  d'étudiants de Master 1 répondant <br/>
+>  aux consignes d'un exercice d'Images Numériques.<br/>
+>  De mon point de vue, il va de soi que <br/>
+>  toute retombée négative ou contraignante<br/>
+>  issue de la production de ce travail <br/>
+>  doit me retomber dessus sans entacher le cursus <br/>
+>  de mes étudiants. J'ai explicitement accepter <br/>
+>  toutes les réalisations et j'ai volontairement <br/>
+>  conseillé une publication sur youtube des résultats.<br/>
+>  De plus, je garantis avoir pris connaissance de la nature<br/>
+>  exacte des logiciels installé et de leur méthodologie <br/>
+>  de fonctionnement avant installation.<br/>
+>  Je m'engage aussi à m'assurer qu'ils soient complètement<br/>
+>  désinstallé au plus vite.<br/>
+>  Mais encore, je tiens à explicité ici et par écrit,<br/>
+>  l'assurance, qui vous est due, que mes intentions,<br/>
+>  à aucun moment passé présent ou à venir, n'ont été<br/>
+>  dirigées pour ou contre vous. Rien n'à été mis en oeuvre<br/>
+>  afin de dénoncer, critiquer ou manquer de respect <br/>
+>  ni aux biens ni aux personnes de l'écoles. <br/>
+>  <br/>
+>  Durant cet exercice des personnes <br/>
+>  ont été enregistrées à leur insu. <br/>
+>  Leur image à été publiée <br/>
+>  sans leur consentement.<br/>
+>  Ce qui est bien entendu non désirable.<br/>
+>  Et je comprends leur colère.<br/>
+>  <br/>
+>  J'ai, au travers des personnes courroucées<br/>
+>  par les faits de mon exercices, à ma disposition <br/>
+>  une caisse de résonance rare et ma foi <br/>
+>  fort intéressante. Celle-ci me permettant <br/>
+>  d'étendre les effets pédagogiques collatéraux <br/>
+>  de cet exercices à un plus grand nombre.<br/>
+>  <br/>
+>  Cela m'amène à vous proposer <br/>
+>  une discussion autour de questions <br/>
+>  relatives aux traces numériques <br/>
+>  que tous nous laissons derrière nous.<br/>
+>  <br/>
+>  <ul>
+>  <li>Combien de fois par jour<br/>
+>   chacun de nous est enregistré<br/>
+>   de façon non volontaire ?</li> 
+>  <li>Qui déverrouille son téléphone <br/>
+>  avec son empreinte digitale ?</li>
+>  <li>Qui parmi-nous peu garantir avoir <br/>
+>   une hygiène digitale irréprochable ?</li>
+>   <li>Le stalkage, on en parle ?</li>
+>   <li>Qu'es ce qu'une donnée personnelle ?</li>
+>   <li>Où sont enregistré les brouillons <br>
+>   de ce mail bien trop long ?<br/>
+>   Pour combien de temps ?<br/>
+>   Qui d'autre que moi peu y avoir accès ?</li>
+>   <li>Et si nos outils chéris, <br/>
+>   mais incompris devenaient<br/>
+>   les témoins à charge d'une action <br/>
+>   devenue subitement répréhensible. </li>
+>   <li>Le problème n'est-il qu'au moment de la publication ?<br/>
+>   Ou vient-il de notre méconnaissance ?</li>
+>   <li>Ne serait-il pas temps de s'(in)former <br/>
+>   sur ces questions de vie privée ?</li>
+>   </ul>
+>   Afin de discuter avec tous...<br/>
+>   Afin de questionner sur les ambitions qu'un cours <br/>
+>   dit Numérique doit avoir dans un Master en Art.<br/>
+>   Afin peut-être d'apporter des sources de connaissance<br/>
+>   et, qui sait, inspirer un renouveau dans nos habitudes <br/>
+>   hors d'usage.<br/>
+>   <br/>
+>   Nous organisons avec Olivier Evrard <br/>
+>   une réunion/débat ouvert à tous - professeurs comme étudiants<br/>
+>   afin de clarifier, apaiser, de construire avec vous <br/>
+>   et d'avancer à partir de la situation.<br/>
+>   Elle se tiendra normalement mardi 19 mars à midi.<br/>
+>   <br/>
+>   Une seconde réunion/débat pourra avoir lieu pour les absents<br/>
+>   et/ou pour faire avancer le débat. La date reste à fixer.<br/>
+>   <br/>
+>   Je n'ai actuellement pas de local attitré <br/>
+>   pour cette organisation. Pourquoi pas le 210? Je vous <br/>
+>   transmets donc dès que possible cette information.<br/>
+>   <br/>
+>   N'hésitez pas à me contacter, evrard.vincent@saint-luc.be<br/>
+>   si vous avez la moindre question ainsi<br/>
+>   que pour me tenir au courant <br/>
+>   de votre participation.<br/>
+>   <br/>
+>   Bonne fin de semaine à vous.<br/>
+>   <br/>
+>   J'espère vous voir à cette réunion. <br/>
+>   Vincent Evrard Assistant d'Olivier Evrard Professeur d'image numérique de Saint Luc Liège<br/>
+
+## Le 14-03-2019 à 11:57, Fabienne P**** a écrit : (mail accompagné d'un sms ~1300 personnes)
+>  **MESSAGE IMPORTANT DE LA DIRECTION – Réunion extraordinaire suite au piratage de webcams**<br/>
+>  Bonjour à tous,
+
+Ces derniers jours, l’émoi est fort au niveau de l’école suite à ce qui s’est passé dans un cours de Master CVG sur les outils numériques : des étudiants et des enseignants ont été filmés à leur insu dans une salle de cours d’infographie et une vidéo composée à partir de ces images s’est retrouvée sur Youtube.
+
+Ce qui s’est passé depuis que l’existence de cette vidéo a été signalée (et je remercie au passage tous ceux qui ont contribué d’une façon ou d’une autre à la correction de la situation) :
+
+La vidéo a été retirée de Youtube dès connaissance de son existence ;
+
+Les ordinateurs sur lesquels des logiciels espions ont été installés ont été « nettoyés » - il semble qu’il y en ait encore d’autres à nettoyer, c’est en cours de correction ;
+
+La source et les responsables ont été identifiés ;
+
+J’ai demandé à Olivier Evrard et Vincent Evrard d’assumer jusqu’au bout les conséquences de leurs actes en revenant vers les personnes directement et indirectement impactées par leur dispositif pédagogique (cf. leur texte ci-dessous) et en produisant du matériel pédagogique à l’intention de toute l’école sur la façon de se protéger des intrusions numériques ;
+
+En toute transparence de ma part, les personnes directement impactées ont été tenues au courant de l’évolution des choses au fur et à mesure ;
+
+Une plainte a été officiellement déposée par une personne filmée à son insu et dont le droit à l’image a été violé, le suivi est en cours.
+
+Ci-dessous vous trouverez donc un texte d’explication ainsi qu’une invitation d’Olivier et Vincent à venir les rencontrer pour débattre de cela. Je relaye cette invitation, dont le texte n’engage qu’eux, par facilité technique pour qu’elle vous arrive le plus rapidement possible. En ce qui me concerne, vous êtes libres d’amener au débat proposé des questions autres que celles proposées par eux, comme, par exemple, les limites de ce que l’on peut éthiquement faire ou pas dans le cadre d’un cours et dans le respect du projet pédagogique et artistique de l’école. Et vous devez vous sentir libres aussi d’y aller juste pour exprimer (aussi sereinement que possible) votre ressenti face à cette situation.
+
+Soyez en tout cas tous assurés que je suis de près cette affaire qui n’a rien d’anodin et que j’assumerai toutes mes responsabilités en faisant ce qu’il y a à faire en telles circonstances… Quoi qu’il en soit, j’espère que nous saurons aussi en tirer quelque chose de positif au niveau de l’école.
+
+Fabienne Pironet, directrice de l’ESA Saint-Luc Liège
