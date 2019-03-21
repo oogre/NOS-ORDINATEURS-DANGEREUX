@@ -1,6 +1,8 @@
-# [Aux origines de cette histoire](./briefing.md)
+# [Le projet artistique](./briefing.md)
 
-# Accusations
+# [Nos productions](./travaux.md)
+
+# [Retour de la direction](./accusation.md)
 
 # Demande d'explication
 
