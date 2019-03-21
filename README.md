@@ -2,9 +2,7 @@
 
 # [Nos productions](./travaux.md)
 
-# [Retour de la direction](./accusation.md)
-
-# Demande d'explication
+# [Les emails](./accusation.md)
 
 # [Retour sur les questions posées](./reponse.md)
 
