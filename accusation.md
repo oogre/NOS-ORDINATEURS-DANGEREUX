@@ -284,26 +284,26 @@
 
 ## Le 14-03-2019 à 11:57, Fabienne P**** a écrit : (mail accompagné d'un sms ~1300 personnes)
 >  **MESSAGE IMPORTANT DE LA DIRECTION – Réunion extraordinaire suite au piratage de webcams**<br/>
->  Bonjour à tous,
-
-Ces derniers jours, l’émoi est fort au niveau de l’école suite à ce qui s’est passé dans un cours de Master CVG sur les outils numériques : des étudiants et des enseignants ont été filmés à leur insu dans une salle de cours d’infographie et une vidéo composée à partir de ces images s’est retrouvée sur Youtube.
-
-Ce qui s’est passé depuis que l’existence de cette vidéo a été signalée (et je remercie au passage tous ceux qui ont contribué d’une façon ou d’une autre à la correction de la situation) :
-
-La vidéo a été retirée de Youtube dès connaissance de son existence ;
-
-Les ordinateurs sur lesquels des logiciels espions ont été installés ont été « nettoyés » - il semble qu’il y en ait encore d’autres à nettoyer, c’est en cours de correction ;
-
-La source et les responsables ont été identifiés ;
-
-J’ai demandé à Olivier Evrard et Vincent Evrard d’assumer jusqu’au bout les conséquences de leurs actes en revenant vers les personnes directement et indirectement impactées par leur dispositif pédagogique (cf. leur texte ci-dessous) et en produisant du matériel pédagogique à l’intention de toute l’école sur la façon de se protéger des intrusions numériques ;
-
-En toute transparence de ma part, les personnes directement impactées ont été tenues au courant de l’évolution des choses au fur et à mesure ;
-
-Une plainte a été officiellement déposée par une personne filmée à son insu et dont le droit à l’image a été violé, le suivi est en cours.
-
-Ci-dessous vous trouverez donc un texte d’explication ainsi qu’une invitation d’Olivier et Vincent à venir les rencontrer pour débattre de cela. Je relaye cette invitation, dont le texte n’engage qu’eux, par facilité technique pour qu’elle vous arrive le plus rapidement possible. En ce qui me concerne, vous êtes libres d’amener au débat proposé des questions autres que celles proposées par eux, comme, par exemple, les limites de ce que l’on peut éthiquement faire ou pas dans le cadre d’un cours et dans le respect du projet pédagogique et artistique de l’école. Et vous devez vous sentir libres aussi d’y aller juste pour exprimer (aussi sereinement que possible) votre ressenti face à cette situation.
-
-Soyez en tout cas tous assurés que je suis de près cette affaire qui n’a rien d’anodin et que j’assumerai toutes mes responsabilités en faisant ce qu’il y a à faire en telles circonstances… Quoi qu’il en soit, j’espère que nous saurons aussi en tirer quelque chose de positif au niveau de l’école.
-
-Fabienne Pironet, directrice de l’ESA Saint-Luc Liège
+>  Bonjour à tous,<br/>
+>  <br/>
+>  Ces derniers jours, l’émoi est fort au niveau de l’école suite à ce qui s’est passé dans un cours de Master CVG sur les outils numériques : des étudiants et des enseignants ont été filmés à leur insu dans une salle de cours d’infographie et une vidéo composée à partir de ces images s’est retrouvée sur Youtube.<br/>
+>  <br/>
+>  Ce qui s’est passé depuis que l’existence de cette vidéo a été signalée (et je remercie au passage tous ceux qui ont contribué d’une façon ou d’une autre à la correction de la situation) :<br/>
+>  <br/>
+>  La vidéo a été retirée de Youtube dès connaissance de son existence ;<br/>
+>  <br/>
+>  Les ordinateurs sur lesquels des logiciels espions ont été installés ont été « nettoyés » - il semble qu’il y en ait encore d’autres à nettoyer, c’est en cours de correction ;<br/>
+>  <br/>
+>  La source et les responsables ont été identifiés ;<br/>
+>  <br/>
+>  J’ai demandé à Olivier Evrard et Vincent Evrard d’assumer jusqu’au bout les conséquences de leurs actes en revenant vers les personnes directement et indirectement impactées par leur dispositif pédagogique (cf. leur texte ci-dessous) et en produisant du matériel pédagogique à l’intention de toute l’école sur la façon de se protéger des intrusions numériques ;<br/>
+>  <br/>
+>  En toute transparence de ma part, les personnes directement impactées ont été tenues au courant de l’évolution des choses au fur et à mesure ;<br/>
+>  <br/>
+>  Une plainte a été officiellement déposée par une personne filmée à son insu et dont le droit à l’image a été violé, le suivi est en cours.<br/>
+>  <br/>
+>  Ci-dessous vous trouverez donc un texte d’explication ainsi qu’une invitation d’Olivier et Vincent à venir les rencontrer pour débattre de cela. Je relaye cette invitation, dont le texte n’engage qu’eux, par facilité technique pour qu’elle vous arrive le plus rapidement possible. En ce qui me concerne, vous êtes libres d’amener au débat proposé des questions autres que celles proposées par eux, comme, par exemple, les limites de ce que l’on peut éthiquement faire ou pas dans le cadre d’un cours et dans le respect du projet pédagogique et artistique de l’école. Et vous devez vous sentir libres aussi d’y aller juste pour exprimer (aussi sereinement que possible) votre ressenti face à cette situation.<br/>
+> <br/>
+> Soyez en tout cas tous assurés que je suis de près cette affaire qui n’a rien d’anodin et que j’assumerai toutes mes responsabilités en faisant ce qu’il y a à faire en telles circonstances… Quoi qu’il en soit, j’espère que nous saurons aussi en tirer quelque chose de positif au niveau de l’école.<br/>
+> <br/>
+> Fabienne P****, directrice de l’ESA Saint-Luc Liège
