@@ -8,4 +8,4 @@ de toutes ces choses pour lequels on peut se passer d’apprentissage.
 > Sentez-vous responsable ou en tout cas acteur de se qui se trouve sur votre ordinateur privé. Si quelque chose ne vous convient pas, vous n’êtes certainement pas le seul. Quelqu’un d’autre a du se retoruver dans le même cas et à certainement développé une solution **Open Source digne de confiance**.
 
 
-# [Avant la fin](./attente.md)
+## [Avant la fin](./attente.md)
