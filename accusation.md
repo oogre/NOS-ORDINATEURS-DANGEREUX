@@ -36,15 +36,8 @@
 > 
 > j'ai demandé que Vincent Evrard s'occupe des deux choses suivantes:<br/>
 > <br/>
-> 1. s'il s'agissait d'un exercice destiné à faire prendre conscience <br/>
-> aux gens de ..., il faut aller jusqu'au bout de l'exercice et revenir <br/>
-> vers toute l'école pour partager ce qui s'est passé et les leçons <br/>
-> que chacun peut en tirer dans sa vie estudiantine, professionnelle ou <br/>
-> privée... (sécurité de la webcam, référence au droit à l'image, <br/>
-> procédure à suivre pour faire retirer une vidéo de Youtube, etc.)<br/>
-> <br/>
-> 2. signaler à l'étudiante qu'elle n'a pas respecté les consignes <br/>
-> et s'est mise en posture d'illégalité. <br/>
+>     * s'il s'agissait d'un exercice destiné à faire prendre conscience aux gens de ..., il faut aller jusqu'au bout de l'exercice et revenir vers toute l'école pour partager ce qui s'est passé et les leçons que chacun peut en tirer dans sa vie estudiantine, professionnelle ou privée... (sécurité de la webcam, référence au droit à l'image, procédure à suivre pour faire retirer une vidéo de Youtube, etc.)
+>     * signaler à l'étudiante qu'elle n'a pas respecté les consignes et s'est mise en posture d'illégalité. 
 > <br/>
 > à son retour, Anne-France verra avec Vincent comment concilier <br/>
 > objectifs pédagogiques et respect de la loi...<br/>
