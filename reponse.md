@@ -176,3 +176,5 @@ à été installé sur 2 machines
 
 ## Les travaux résultant de ces « hacks » contiennent-ils des données sensibles ou des données qui permettent d’identifier les personnes hackées?
 > Si vous le voulez vous en assurer par vous mêmes, je vous propose de vous projeter cette vidéo qui fut hébergée sur youtube en priver et puis retirée. Je précise que celle-ci était en hébergement privée. Ainsi il devait exister un lien direct de proche en proche entre le regardeur et le regardé en passant par le lieu d'exposition, point de passage primordial pour accéder à la vidéo.
+
+## [Conseil sécurité](./securite.md)

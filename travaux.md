@@ -48,3 +48,5 @@ http://www.youtube.com/watch?v=RZkJAteVsW8
 
 * [Chloé Dôme - Trace de pas](https://www.youtube.com/watch?v=RZkJAteVsW8&t=517)
 > Installation performative. Au moyen de peinture noir disposée sur le paillasson de la porte d'entrée, Chloée force les usagers d'un lieu à laisser derrière eux une trace de leur passage. Métaphore ou révélation que quoique nous fassions nous générons de l'information, le tout est de pouvoir l'identifier pour au besoin la dissimuler.
+
+## [Accusations](./accusation.md)
