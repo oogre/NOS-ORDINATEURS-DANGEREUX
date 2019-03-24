@@ -361,4 +361,109 @@ Les emails de l’ESA ont-ils été utilisés pour tester les hacks emails prés
 >  > <br/>
 >  > Lors de notre réunion de ce matin, nous avons appris qu’une réunion tenue par les enseignants devait avoir lieu, le Conseil d’administration décide que cette réunion est interdite et annulée. "
 
+
+## Le 24-03-2019 à 10:59, Frédéric H**** a écrit :
+>  **Besoin d'écoute...**<br/>
+>  Bonjour Vincent, Bonjour Olivier,<br/>
+>  <br/>
+>  il faut dire que votre exercice a pas mal ébranlé certains d'entre nous, je ne mesure pas et sans doute vous non plus l'impact que ça peut avoir sur l'école et au-delà. Il crée des inquiétudes, il engendre de la paranoïa, il brise la confiance de certains d'entre nous, il divise le corps enseignant,  il questionne la pédagogie et l'éthique. Un climat de malaise s'installe car les informations sont multiples. L'expérience est ressentie et vécue de manière diverse suivant sa position de responsable, victime ou spectateur. Cela engendre de l'incompréhension et même de la moquerie.<br/>
+>  <br/>
+>  L'un et l'autre avez expliqué et justifié le bien fondé de votre démarche. Les questions que vous posez sont pertinentes et méritent toute notre attention mais je crois que certains d'entre nous sommes ignorants et malgré l'exercice, nous le demeurons; nous n'avons ni les connaissances ni l'esprit pour proposer une réflexion globale et personnelle et des solutions rassurantes pour chacun d'entre nous.<br/>
+>  <br/>
+>  Dans ce climat délétère, je fais face à des étudiants meurtris par votre attitude. Ils souhaitent être écoutés, entendus, ils désirent de l'empathie. A cet effet et comme l'a suggéré Fabienne, serait-il possible d'organiser une rencontre? Je la cite: " une rencontre avec chacun des groupes classe directement touché par cela: vous aurez à entendre leurs réactions, à leur remettre toutes les images en votre possession ou en la possession d’étudiants qui ont participé à votre cours et à les rassurer qu’ils peuvent continuer à donner/suivre un cours dans cette salle sans craindre d’être à nouveau filmés ou tracés à leur insu".<br/>
+>  <br/>
+>  Je propose que vous soyez présents au cours du vendredi matin au G210 entre 9h15 et 12h30 à votre meilleurs convenance. Si vous me signifier l'heure de votre présence avant mercredi, j'inviterai les étudiants d'une autre classe à être présent.<br/>
+>  <br/>
+>  Bien à vous,<br/>
+>  Frédéric<br/>
+
+## Le 24-03-2019 à 14:15, Vincent Evrard a écrit :
+>  **Re: Besoin d'écoute...**<br/>
+>  Bonjour Frédéric, <br/>
+>  Je comprend bien l'inquiétude que tu témoigne <br/>
+>  émanant de la population des étudiants ainsi <br/>
+>  que des professeurs. Je suis fort touché par <br/>
+>  la suite que ces événements ont prit.<br/>
+>  <br/>
+>  Dès l'arrivée à mes oreilles de cet émoi, <br/>
+>  j'ai tenté d'organiser un éclaircissement et une discussion<br/>
+>  publique sur les différents enjeux de la démarche <br/>
+>  pédagogique et artistique qui à été menée dans mon cours.<br/>
+>  Rassurer et accompagner l'émancipation de nos peurs latentes <br/>
+>  face au numérique est un objectif qui pour moi dépasse <br/>
+>  de loin les ambitions pédagogiques, cette pratique est au coeur <br/>
+>  de ma démarche artistique.<br/>
+>  <br/>
+>  Le mode de communication et les mots de la direction et du CA<br/>
+>  sont de mon point de vue anxiogène. Ils ne permettent<br/>
+>  ni le développement d'une réflexion, ni une avancée ensemble<br/>
+>  au travers de ces questions.<br/>
+>  <br/>
+>  Aujourd'hui, je suis mis sous silence par le CA. J'attend un retour<br/>
+>  de leur part. Avant cela, je crains que toute prise de parole publique <br/>
+>  de ma part au sein de l'ESA de Liège puisse être vu comme de la provocation.<br/>
+>  <br/>
+>  Néanmoins, le texte que je pensais partager avec vous durant <br/>
+>  cette discussion «nos ordinateurs dangereux» est accessible <br/>
+>  sur ma page : https://github.com/oogre/NOS-ORDINATEURS-DANGEREUX<br/>
+>  J'essaye de documenter là, le positionnement artistique que nous avons eu.<br/>
+>  J'y documente aussi le mode de réception que ces travaux ont eu.<br/>
+>  Ces documents étant hébergés sur une plateforme de travail collaboratif et<br/>
+>  étant sous licence Creative Commons (BY-SA). Chacun à le droit de participer <br/>
+>  à l'élaboration de son contenu, poser des questions et interagir. <br/>
+>  De ce fait, je te prie de prendre en compte que ce qui est écrit là <br/>
+>  peut-être soumis à modification, ajustement et correction. <br/>
+>  Cela dans le but d'y avoir un contenu le plus objectif et le plus opérant. <br/>
+>  <br/>
+>  Je te remercie pour ton retour,<br/>
+>  la vivant moi-même, je soutiens de tout coeur l'impatience que tu témoigne <br/>
+>  à vouloir avancer sur ces événements.<br/>
+>  <br/>
+>  Cordialement<br/>
+>  Vincent Evrard
+
+## Le 24-03-2019 à 14:40, Fabienne P**** a écrit :
+>  **Re: Besoin d'écoute...**<br/>
+>  bonjour à tous,<br/>
+>  <br/>
+>  Vincent, c'est moi qui ai dit à Fred qu'il pouvait faire cette démarche envers toi avant le retour du CA, de façon à ce que cela puisse s'organiser rapidement; ce serait bien que tu puisses rencontrer les étudiants qui ont eu cours dans la salle 210 et se posent des questions avant que le débat public ait lieu (des réponses ayant déjà été données aux personnes directement touchées, cela pourra aider à la sérénité de celui-ci).<br/>
+>  <br/>
+>  Fabienne
+
+## Le 24-03-2019 à 15:26, Vincent Evrard a écrit :
+>  **Re: Besoin d'écoute...**<br/>
+>  Re,<br/>
+>  Vendredi ne me convient pas du tout.<br/>
+>  Il se trouve que j'enseigne à l'ESA Bruxelles <br/>
+>  les jeudis après-midi et vendredis toute la journée.<br/>
+>  De plus le week-end prochain, sont organisées les portes ouvertes,<br/>
+>  de cette école. Et que ma participation pour les préparatifs est attendue <br/>
+>  de mes collègues. <br/>
+>  <br/>
+>  Mais j'ai prévu, de me rendre demain "lundi" à la Masterclass de <br/>
+>  Daito Manabe qui à lieu entre 18.00 et 19.00 au local 211 de l'ESA de Liège.<br/>
+>  Je peux donc me rendre disponible ce lundi après-midi. Ma journée de<br/>
+>  mardi est d'ores et déjà remplie par un travail de production que je ne peux déplacé.<br/>
+>  Mercredi est par contre plus disponible, si besoin, pour cette rencontre.<br/>
+>  <br/>
+>  Merci de me tenir informé de vos disponibilités<br/>
+
+## Le 24-03-2019 à 15:39, Vincent Evrard a écrit : @Fabienne P****
+>  **Communication**<br/>
+>  Bonjour,<br/>
+>  Je vous serai gré de me tenir informé des décisions, <br/>
+>  que vous prenez à mon encontre. Cela avant que je <br/>
+>  me retrouve à perdre mon temps à répondre à côté de la plaque<br/>
+>  à des collègues qui nécessitent un retour que vous m'avez conseillé <br/>
+>  puis interdit de faire.<br/>
+>  <br/>
+>  Prenez, s'il vous-plait, en considération que <br/>
+>  je suis un être humain sensible et<br/>
+>  frustré par des accusations outrancières,<br/>
+>  frustré d'avoir été bâillonné au moment de prendre parole, <br/>
+>  frustré par l'ampleur que cette histoire prend sur une école qui m'est cher, <br/>
+>  sur ma vie personnelle, <br/>
+>  ainsi que sur mon travail actuel. <br/>
+
+
 ## [Retour sur les questions posées](./reponse.md)
