@@ -50,7 +50,7 @@
 > <li>lorsque la reproduction de l’image de la personne est accessoire par rapport à la photographie.</li>
 > <li>...<li>
 > </ul>
-> Cependant une limite demeure, les images diffusées dans ce cadre ne doivent pas porter atteinte à la [dignité humaine](./reponse.md#comment-avez-vous-exploité-les-données-recueillies-durant-ce-tp--les-avez-vous-diffusées-en-dehors-de-la-classe-de-m1-sont-elles-stockées-de-manière-sécurisée-et-combien-de-copies-de-ces-données-existe-t-il).
+> Cependant une limite demeure, les images diffusées dans ce cadre ne doivent pas porter atteinte à la <a href="./reponse.md#comment-avez-vous-exploité-les-données-recueillies-durant-ce-tp--les-avez-vous-diffusées-en-dehors-de-la-classe-de-m1-sont-elles-stockées-de-manière-sécurisée-et-combien-de-copies-de-ces-données-existe-t-il">dignité humaine</a>.
 
 # Selon la description du Master CVG
 > ## FORMATION
