@@ -22,15 +22,6 @@ extrait d'un email de collègue<br/>
 14-03-2019 12:33<br/>
 ![moust151209 police ouvert](./moust151209%20police%20ouvert%20cmjn%2072dpi.jpg)
 
-## Lola N****
-extrait d'un email d'étudiant
-14-03-2019 14:17
-> Bonjour Mr Evrard,<br/>
-> Je trouve ça vraiment dommage que ça se passe ainsi. J'ai en effet reçu un message de Youtube, il y a peut-être une semaine disant que je devais absolument supprimer ma vidéo dans les 24h sinon des problèmes suivront. C'est bien ce que j'ai fais évidemment. <br/>
-> [...]<br/>
-> J'espère que vous et moi n'auront pas de problème suite à la plainte déposée. <br/>
-> [...]<br/>
-
 ## Joëlle H****
 extrait d'un email de collègue<br/>
 14-03-2019 14:49<br/>
