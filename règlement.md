@@ -6,28 +6,28 @@
 > <br/>
 > [...]
 > <ul>
-    > <li>en s’interdisant d’outrepasser les conditions d’accès, c’est-à-dire de :
-    > <ul>
-        > <li>accéder à des informations appartenant à d’autres utilisateurs du réseau ou à l’institution, sans leur autorisation et ce, même si ces données ne sont pas protégées ;</li>
-        > <li>communiquer des informations confidentielles ou accessibles via mot de passe sur le site de l’ESA Saint- Luc ;</li>
-        > <li>...</li>
-    > </ul></li>
-    > <li>en s’interdisant de nuire au réseau et au matériel, c’est-à-dire de :
-    > <ul>
-        > <li>détériorer le matériel en l’utilisant à mauvais escient (par exemple : taper avec trop de force sur les touches du clavier, forcer les ports USB, tirer sur les câbles…);</li>
-        > <li>...</li>
-    > </ul></li>
-    > <li>en s’interdisant de nuire aux autres, c’est-à-dire :
-    > <ul>
-        > <li>porter atteinte à l’intégrité de toute personne par quelque moyen que ce soit : messages, textes, enregistrements, photos, vidéos, etc. ;</li>
-        > <li>...</li>
-    > </ul></li>
-    > <li>en s’interdisant de nuire à la propriété intellectuelle et à la vie privée d’autrui, c’est-à-dire de :
-    > <ul>
-        > <li>enfreindre le droit à l’image c’est-à-dire de diffuser sur n’importe quel support sans l’autorisation de la personne concernée une photo, une vidéo, un dessin… comprenant un visage si celui-ci est reconnaissable (sauf exception prévue à cet effet par la loi et la jurisprudence) - notamment de filmer les professeurs sans leur accord ou prendre des photos pendant le cours et de les diffuser.</li>
-        > <li>...</li>
-    > </ul>
-    > </li>
+> <li>en s’interdisant d’outrepasser les conditions d’accès, c’est-à-dire de :
+> <ul>
+> <li>accéder à des informations appartenant à d’autres utilisateurs du réseau ou à l’institution, sans leur autorisation et ce, même si ces données ne sont pas protégées ;</li>
+> <li>communiquer des informations confidentielles ou accessibles via mot de passe sur le site de l’ESA Saint- Luc ;</li>
+> <li>...</li>
+> </ul></li>
+> <li>en s’interdisant de nuire au réseau et au matériel, c’est-à-dire de :
+> <ul>
+> <li>détériorer le matériel en l’utilisant à mauvais escient (par exemple : taper avec trop de force sur les touches du clavier, forcer les ports USB, tirer sur les câbles…);</li>
+> <li>...</li>
+> </ul></li>
+> <li>en s’interdisant de nuire aux autres, c’est-à-dire :
+> <ul>
+> <li>porter atteinte à l’intégrité de toute personne par quelque moyen que ce soit : messages, textes, enregistrements, photos, vidéos, etc. ;</li>
+> <li>...</li>
+> </ul></li>
+> <li>en s’interdisant de nuire à la propriété intellectuelle et à la vie privée d’autrui, c’est-à-dire de :
+> <ul>
+> <li>enfreindre le droit à l’image c’est-à-dire de diffuser sur n’importe quel support sans l’autorisation de la personne concernée une photo, une vidéo, un dessin… comprenant un visage si celui-ci est reconnaissable (sauf exception prévue à cet effet par la loi et la jurisprudence) - notamment de filmer les professeurs sans leur accord ou prendre des photos pendant le cours et de les diffuser.</li>
+> <li>...</li>
+> </ul>
+> </li>
 > </ul>
 
 
