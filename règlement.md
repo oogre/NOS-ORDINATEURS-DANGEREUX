@@ -89,4 +89,6 @@ Depuis septembre 2015, j'encadre l'atelier de programmation à raison de 2h sema
 > Nous disséquons le paysage numérique, nous déplaçons, isolons ces parties pour en observer le comportement.
 > Nous utilisons des outils open source de création et d'exploration du code.
 
-# Selon le [breifing de l'exercice](./briefing.md);
+# Selon le [breifing de l'exercice](./briefing.md)
+
+## [avant la fin](./attente.md)

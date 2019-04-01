@@ -22,6 +22,10 @@ _________________
 
 # [Avant la suite](./attente.md)
 
+# [La règle](./règlement.md)
+
+# [Qui suis-je](./Portfolio.vincent.pdf)
+
 # License
 Vincent Evrard,<br/>
 assistant du professeur Olivier Evrard pour le cours d’Image Numérique <br/>
