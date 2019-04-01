@@ -7,3 +7,4 @@ de nous confronter aux accusations. Ni même en ayant pris en compte une relatio
 > Loin de moi l’idée de contre attaquer. Il se trouve que pour ces mêmes erreurs ou maladresses je vous dois des excuses. J'entend par là que j'ai pêché par manque de communication.
 > À refaire, un point sur lequel je tâcherais d’améliorer cet exercice, est que vous serez tous officielement, peut-être même par SMS, invité à participer au vernissage de l’exposition. Afin de lever le voile ensemble et que chacun puisse se sentir accompagné dans l'évolution de ses relations aux ordinateurs.
 
+## [Les soutients ](./soutient.md)

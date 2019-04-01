@@ -20,9 +20,9 @@ _________________
 
 # [Se sécuriser](./securite.md)
 
-# [Avant la suite](./attente.md)
-
 # [La règle](./règlement.md)
+
+# [Avant la suite](./attente.md)
 
 # [Les soutients ](./soutient.md)
 
