@@ -59,7 +59,7 @@ extrait d'un email de collègue<br/>
 > [...]
 
 ## Loni R****
-extrait d'un email de étudiant de M1<br/>
+extrait d'un email d'étudiant<br/>
 19-03-2019 10:22<br/>
 > Bonjour Monsieur,<br/>
 > <br/>
