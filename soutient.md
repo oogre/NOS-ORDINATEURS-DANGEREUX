@@ -20,7 +20,7 @@ extrait d'un email d'étudiant<br/>
 ## Bernard Q****
 extrait d'un email de collègue<br/>
 14-03-2019 12:33<br/>
-![moust151209 police ouvert](./moust151209 police ouvert cmjn 72dpi.jpg)
+![moust151209 police ouvert](./moust151209%20police%20ouvert%20cmjn%2072dpi.jpg)
 
 ## Lola N****
 extrait d'un email d'étudiant
