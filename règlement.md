@@ -1,10 +1,10 @@
 # [règlement des études ESA 2018-2019](https://www.saint-luc.be/wp-content/uploads/2019/02/www.saint-luc.be-reglement-etudes-esa-2018-2019-modif-consultation-copies.pdf)
 
 > ## 6.2.3. Règles de bon usage
-> [...]
+> ...<br/>
 > L’utilisateur doit utiliser les ressources informatiques de manière responsable, notamment :
 > <br/>
-> [...]
+> ...<br/>
 > <ul>
 > <li>en s’interdisant d’outrepasser les conditions d’accès, c’est-à-dire de :
 > <ul>
@@ -29,7 +29,7 @@
 > </ul>
 > </li>
 > </ul>
-
+> ...<br/>
 
 > ## 6.2.4. Utilisation de logiciels
 > Le matériel de l’ESA doit rester intact : il est interdit d’y installer un logiciel sans autorisation préalable. Seuls les services informatiques compétents peuvent en donner l’autorisation. L’utilisateur ne peut :
@@ -37,3 +37,4 @@
 > <li>développer des programmes malveillants, (virus, chevaux de Troie, etc.) et contrevenir aux lois qui régissent l’utilisation des moyens informatiques et interdisent notamment le spamming ;</li>
 > <li>...</li>
 > </ul>
+> ...<br/>
