@@ -19,11 +19,10 @@ http://www.youtube.com/watch?v=RZkJAteVsW8
 > Loni nous propose un voyage dans le paysage de ses souscriptions web. L'idée étant de se rapeler la quantité de site sur lequels, un jour, nous nous sommes inscript et que nous avons déserté.
  
 * [Chloé Nicolas - Filter bubble](https://www.youtube.com/watch?v=RZkJAteVsW8&t=88s)
-> Installation matérialisant de façon métaphorique nos relations actuelles sur le web. Espace pensé pour être un lieux d'échange et de débat. Aux travers des grandes plateforme aujourd'hui, nous ne nous trouvons tel ses smarties bleus entouré de smarties bleu. L'espace public est devenu à l'image de l'espace privé un lieu sans rencontre. 
+> Cette installation matérialise de façon métaphorique nos relations actuelles sur le web. Espace pensé pour être un lieux d'échange et de débat. Aux travers des grandes plateforme aujourd'hui, nous nous trouvons tel ses smarties bleus entouré de smarties bleu. L'espace public est devenu à l'image de l'espace privé un lieu sans rencontre. 
 
 * [Laurie Depas - Sans titre](https://www.youtube.com/watch?v=RZkJAteVsW8&t=134s)
 > Création sonore traduisant un environement médiatique de plus en plus saturé.
-
 
 * [Cemila Wrzosek - Historique](https://www.youtube.com/watch?v=RZkJAteVsW8&t=171s)
 > Fanzine retracant au travers de sont historique de navigation des événements de vie d'un étudiant fictif aux bord du goufre.
@@ -35,7 +34,7 @@ http://www.youtube.com/watch?v=RZkJAteVsW8
 > Sur base de deux fichiers électroniques abandonnés par leur auteurs sur des ordinateurs public, Dylan à exploré les Internets afin de retrouver ceux-ci. En langage plus à propos il a stalker ceux-ci afin d'archiver sur deux poster toutes les informations qu'il a pu rassembler.
 
 * [Nicolas Pietroniro - Onde](https://www.youtube.com/watch?v=RZkJAteVsW8&t=263s) 
-> Nicolas propose une peinture et une creation sonore. Il a exploré au moyen de logiciels appropriés les échanges de paquets de données circulant sur un réseau wifi. Il a pu extraire la quantité d'information que ceux-ci contenaient afin de les concidérer comme ses notes de musique de sa création sonore. 
+> Nicolas propose une peinture et une creation sonore. Il a exploré au moyen de logiciels appropriés les échanges de paquets de données circulant sur un réseau wifi. Il a pu extraire la quantité d'information que ceux-ci contenaient afin de les concidérer comme les notes de musique de sa création sonore. 
 
 * [Clarisse Thomas - Vie privée/vie public](https://www.youtube.com/watch?v=RZkJAteVsW8&t=301s)
 > Édition et poster construite sur base de données accrétées par le logiciel (Swift-Keylogger)[https://github.com/SkrewEverything/Swift-Keylogger]. Cette édition à pour but informatif sur l'existence et le mode de fonctionnement de ce type de logiciel sensible voir sulfureux en fonction des circonstances.

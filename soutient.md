@@ -4,6 +4,8 @@
 extrait d'une lettre ouverte adressée à la direction<br/>
 19-03-2019 15:45<br/>
 > [...]<br/>
+>Nombre d’experts le démontrent au quotidien, plusieurs artistes l’ont expérimenté : nous ne maitrisons plus nos données. Les GAFA règnent en maître et possèdent dans leurs coffres pas si virtuels que ça bien plus de nos données personnelles que nous ne connaissions nous-mêmes. Et ils les vendent, les échangent à notre insu. Il est nécessaire d’être vigilant, nécessaire de combattre, de dénoncer… Mais faut-il le faire en visant un laboratoire d’une vingtaine de personnes qui œuvrent justement à étudier ces questions tant sur le plan politique que sur le plan de la technologie ? C’est par la maîtrise de l’outil que les citoyens pourront s’emparer de ces questions. Nous ne pouvons plus être des analphabètes des TIC. Ce passage ne peut se faire que par l’expérience et l’analyse de cette expérience.
+> [...]<br/>
 > Rarement nous avons l’occasion de débattre de sujets aussi fondamentaux que celui-là. Rarement l’ensemble des acteurs de l’Institution sont sollicités à prendre la parole.<br/>
 > Rarement un enseignant n’a l’occasion de partager l’essence de son cours et de le mettre en discussion. Au moment d’écrire ces « rarements », je crains juste qu’il ne faille lire « jamais ». C’est interdit ! <br/>
 > C’était pourtant nécessaire.<br/>

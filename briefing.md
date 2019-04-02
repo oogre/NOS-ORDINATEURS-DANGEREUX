@@ -14,7 +14,7 @@ Selon votre propre choix
 
 ## Publication
 Le résultat de nos travaux
-sera exposé durant au moins an
+sera exposé durant au moins un an
 sur un mur de l’école,
 choisi par vous ensemble.
 

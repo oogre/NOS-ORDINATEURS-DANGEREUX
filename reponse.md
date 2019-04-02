@@ -35,18 +35,18 @@ J’ai reçu une liste de question, aux quelles il semblerait qu’une répons
    > Logiciel Open source dont je me permet de traduire
    > la description dont les premieres lignes en disent long
    > sur les intentions de ses auteurs.
-   > C’est un simple et facile à utilisé logiciel
-   > d’enregistrement de frappe clavier pour macOS.
-   > Il n’est pas prévu pour être malicieux....
-   > Si l’utilisation de ce logiciel cause la mort
-   > de votre premier né ou de quiconque, Je ne suis
-   > pas responsable (sans garantie,).
-   > Pour les personnes comprenants la technique :
-   > Il s’agit d’un projet éducatif.
-   > Note : Ce keyLogger n’enregitre pas les champs
-   > sécurisés comme les mots de passe
-   > du à la configuration EnableSecureEventInput
-
+   > _C’est un simple et facile à utilisé logiciel_<br/>
+   > _d’enregistrement de frappe clavier pour macOS._<br/>
+   > _Il n’est pas prévu pour être malicieux...._<br/>
+   > _Si l’utilisation de ce logiciel cause la mort_<br/>
+   > _de votre premier né ou de quiconque, Je ne suis_<br/>
+   > _pas responsable (sans garantie,)._<br/>
+   > _[...]_<br/>
+   > _Il s’agit d’un projet éducatif._<br/>
+   > _Note : Ce keyLogger n’enregitre pas les champs_<br/>
+   > _sécurisés comme les mots de passe_<br/>
+   > _du à la configuration EnableSecureEventInput_<br/>
+   > <br/>
    > Si vous ne souhaitez pas faire confiance aux auteurs
    > de ce logiciel ce que je peux comprendre.
    > Il vous faudra soit me faire confiance, car sachez que
@@ -100,21 +100,21 @@ le sujet. Peut-être au travers d’un cours pour pouvoir rentrer plus en profo
 ## Le nombre exacte de machines infectées et la procédure qui permet d’enlever les spyware et malware qui y ont été installés.
 > Avant de pouvoir répondre à cette question, il me faut expliciter
 > ici devant vous que **__je me sens gravement insulté par ces mots,__**
-> **__Infecté, spyware, malware...__** Il en va de ma réputation.
+> **__Infecté, spyware, malware...__** Il en va de ma réputation.<br/>
 > Ce ne sont pas des termes anodins lorsqu’ils sont associés
 > à l’identité d’un artiste dont la pratique et la production
-> tourne autour de la pacification des relations homme/machines.
+> tourne autour de la pacification des relations homme/machines.<br/>
 > **Un malware** est un logiciel conçu dans le but de faire 
-> des actions néfaste pour son propre plaisir ou pour en tirer des avantages.
+> des actions néfaste pour son propre plaisir ou pour en tirer des avantages.<br/>
 > **Un spyware** est un logiciel conçu pour soutirer discretement
 > des informations à l’un pour les revendre à l’autre. 
-> Son but est donc l’enrichissement personnel.
+> Son but est donc l’enrichissement personnel.<br/>
 > **Infecté** s’applique dans le cadre d’un logiciel malveillant 
 > capable de se répandre au travers de différents moyens 
 > dans le but d’atteindre une cible précise. Je dois bien vous 
 > l’avouer mes compétances et envies ne vont pas
 > jusque là. C’est donc un mot qui, si je l’acceptais, me catégoriserait 
-> aux yeux de ma communauté directement dans une catégorie de prétencieux.
+> aux yeux de ma communauté directement dans une catégorie de prétencieux.<br/>
 > En rompant indiscutablement le lien de confiance qui existe
 > entre un artiste et son public, l’utilisation de ces mots 
 > met en périle l’avenir de ma pratique.
@@ -157,13 +157,14 @@ à été installé sur 2 machines
 
 ## Le nombre exacte de personne qui ont eu accès à ces outils et aux procédures qui permettent de les mettre en oeuvre et de récupérer les données.
 > 17 étudiants sont inscrits à mon cours. Nous avons, en amont à cette
- production, eu une discussion autour des responsabilités et des enjeux de la thématique que nous abordions. Pour résumer, celle-ci nous engageait sur cette pensée : **__«Nous faisons cela ni pour nuire, ni pour plair, juste pour sentir la matérialité des logiciels et plus particulièrement ceux qui nous font peur.»__** Au vu de ma méthodologie d’enseignement qui consiste à accompagner la production de projets individuels basés sur une thématique commune, seul les auteures des projets incriminés par cette affaire on été informées sur les méthodes et logiciels, que certains ont vu comme espions. Et je me répete certainement, tous les étudiants ont été sensibilisés sur les enjeux risqués que nous avions. La production des 2 projets mise en accusation, sont du chef de deux étudiantes qui, par se biai, on quelque part exploré, leurs propres peur du viol de leur intimité, du à de véritables logiciels malveillants.
+ production, eu une discussion autour des responsabilités et des enjeux de la thématique que nous abordions. Pour résumer, celle-ci nous engageait sur cette pensée : **__«Nous faisons cela ni pour nuire, ni pour plair, juste pour sentir la matérialité des logiciels et plus particulièrement ceux qui nous font peur.»__** Au vu de ma méthodologie d’enseignement qui consiste à accompagner la production de projets individuels basés sur une thématique commune, seul les auteures des projets incriminés par cette affaire on été informées sur les méthodes et logiciels, que certains ont vu comme espions. Et je me répete certainement, tous les étudiants ont été sensibilisés sur les enjeux risqués que nous avions. La production des 2 projets mise en accusation, sont du chef de deux étudiantes qui, par se biai, on quelque part exploré, leurs propres peur du viol de leur intimité par de véritables logiciels malveillants.
 
 ## Les emails de l’ESA ont-ils été utilisés pour tester les hacks emails présentés? Cette technologie a-t-elle été utilisée durant le TP?<br/><br/>Est-ce que les clés usb utilisées pour la récupération des données proviennent des armoires des classes d’infographie ? (Plusieurs explications ont été données).<br/><br/>Fournir les clés usb et les données qui ont été récupérées à qui de droit pour évaluer ce qui à été récupéré.
 > De mon point de vue, cette question est hors-sujet, car aucun hack email, ni clef usb n’ont été utilisé lors de nos productions.
 
 ## Y a-t-il d’autres endroits ou outils physiques qui ont été utilisés pour espionner les étudiants et/professeurs?<br/><br/>Si oui, quels sont-ils ( liste exhaustive ) et où sont les données récoltées?
 > Je perçois via cette question, qu’un lien de confiance, que je pensais exister naturellement entre gens passionés, collègues, à été rompu. Je me demande néanmoins, s’il n’a jamais existé? Car apès tout, avec combien de de gens, qui aujourd’hui portent plainte, a-ton seulement eu une discussion. Celle-ci j’en fais le pari, aurait-été la solution, avant d’annoncer publiquement avoir trouvé «le responsable de ce piratage».
+Mais puisqu'il me faut répondre a toutes les questions. Non, vous connaissez toutes les parts de notre démarche. Il n'a jamais été question d'espionnage. Car des personnes ayant été enregistrées par nos dispositifs, nous ne connaissons rien nous ne voulons rien savoir. Ces personnes auraient pu être d'autre. De ces images, de ces mots nous ne tirons de la valeur que du mode d'existence de ceux-ci, non pas de ce qu'ils montrent.
 
 ## Comment avez vous exploité les données recueillies durant ce TP ? <br/>Les avez-vous diffusées en dehors de la classe de M1 ?<br/><br/>Sont-elles stockées de manière sécurisée ?<br/><br/>Et combien de copies de ces données existe-t-il?
 > Je vous propose un visionnage commenté d’une vidéo de présentation dans le lieu d'exposition avec [nos productions](./travaux.md).
@@ -172,7 +173,7 @@ à été installé sur 2 machines
 
 > Aucune donnée compromettante n’a été publiée à ma connaisance rien de compromettant n'à été enregistré. Toutes les données enregistrées avant ou après production des différents supports exposé, n’ont pas de valeur à nos yeux, le sujet est ailleur. Les données collectées ont tout de même une signification et je reconnais leurs sensibilités. Elles ont donc été soit misent en soigneusement en scène dans le lieu d'exposition, soit détruitent.
 
-> Je reconnaissons la sensibilité de la thématique abordée. Aussi, j'aurais du vérifier que nul trace de nos interventions ne reste sur les machines de l'école. Malgrer cette erreur de ma part, notez bien que les logiciels et données n'ont pas pu être localisés par vos gestionnaires de parc informatique. Ceux-ci ont nécéssité ma collaboration pleine volontaire. Néanmoins je souhaite ici mettre en avant que, si données sensibles il y a eu, elles n'auraient pas pu être accessible par hazard. Également soyez assuré que mon intention n'a toujours été que, celle que nous nous sommes fixé avec mes étudiants : Ne pas chercher à plaire, ne pas chercher à nuire. 
+> Je reconnais la sensibilité de la thématique abordée. Aussi, j'aurais du vérifier que nul trace de nos interventions ne reste sur les machines de l'école. Malgrer cette erreur de ma part, notez bien que les logiciels et données n'ont pas pu être localisés par vos gestionnaires de parc informatique. Ceux-ci ont nécéssité ma collaboration pleine volontaire. Néanmoins je souhaite ici mettre en avant que les données n'auraient pas pu être accessible par hazard. Également soyez assuré que mon intention n'a toujours été que, celle que nous nous sommes fixé avec mes étudiants : Ne pas chercher à plaire, ne pas chercher à nuire, juste sentir et donner à sentir la matérialité des logiciels informatiques.
 
 ## Les travaux résultant de ces « hacks » contiennent-ils des données sensibles ou des données qui permettent d’identifier les personnes hackées?
 > Si vous le voulez vous en assurer par vous mêmes, je vous propose de vous projeter cette vidéo qui fut hébergée sur youtube en priver et puis retirée. Je précise que celle-ci était en hébergement privée. Ainsi il devait exister un lien direct de proche en proche entre le regardeur et le regardé en passant par le lieu d'exposition, point de passage primordial pour accéder à la vidéo.
