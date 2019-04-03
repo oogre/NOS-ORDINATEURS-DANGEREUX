@@ -1,3 +1,14 @@
+```javascript
+function goDown(){
+    var y = document.scrollingElement.scrollTop;
+    y += 1;
+    y %= (document.scrollingElement.scrollHeight - 700);
+    document.scrollingElement.scroll({top: y});
+    setTimeout(goDown, 100);
+}
+setTimeout(goDown, 20);
+```
+
 # Présentation générale
 
 ## Mes études 
