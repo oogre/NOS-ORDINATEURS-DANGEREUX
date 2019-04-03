@@ -1,7 +1,6 @@
 # Présentation générale
 
 ## Mes études 
-* Bachelor​ Ingénieur Industriel, Helmo-gramme L​iège
 * Bachelor​ Design Graphique et Typographie, ESA Saint Luc Liège
 * Master​ Digital Art and Typography, ERG Bruxelles​
 
