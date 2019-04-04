@@ -1,15 +1,3 @@
-______________
-Le cours d'image numérique rend-t-il
-# NOS<br/>ORDINATEURS<br/>DANGEREUX
-
-Le droit à l'image est-il plus fort que
-Le droit à la liberté d'expression ?
-
-Conférence & Débat
-
-#  ~auditoire 103 B3<br/>19.mars.12h30~ [interdite et annulée](./email/direction/annulation.md)
-_________________
-
 # [Le projet artistique](./briefing.md)
 
 # [Nos productions](./travaux.md)
@@ -18,6 +6,8 @@ _________________
 
 # [Retour sur les questions posées](./reponse.md)
 
+# [Invitation - interdiction](./invitation.md)
+
 # [Se sécuriser](./securite.md)
 
 # [La règle](./règlement.md)
@@ -25,6 +15,8 @@ _________________
 # [Avant la suite](./attente.md)
 
 # [Les soutients ](./soutient.md)
+
+# [Lettre ouverte ](./lettre.md)
 
 ## [Qui suis-je](./Portfolio.vincent.pdf)
 
