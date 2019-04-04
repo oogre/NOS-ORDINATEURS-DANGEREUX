@@ -20,6 +20,9 @@
 
 ## [Qui suis-je](./Portfolio.vincent.pdf)
 
+# Avertissement
+Les différents fichier répertorié dans ce projet sont des documents de travail, je vous prie de prendre cela en considération, certains contenus accessible en fouillant un peu ne reflètent pas ma position actuelle et ne pourrons en aucun cas être retenu à ma charge. Je suis sur que vous pouvez comprendre cela, au vue de la suite des événements, je suis passé par plusieurs émotions fort différentes et cela laisse des traces, qui je pense peuvent être propice à des réflexions personnels ultérieurs. Voila donc pourquoi, je tiens à ce que celles-ci soit conservées.
+
 # License
 Vincent Evrard,<br/>
 assistant du professeur Olivier Evrard pour le cours d’Image Numérique <br/>
