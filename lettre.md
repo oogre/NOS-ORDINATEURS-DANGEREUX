@@ -1,7 +1,7 @@
 Madame, Monsieur,
 
 Cette lettre fait suite à mon entretien avec Mm Brocal Administratrice-déléguée 
-du Comité Organisateur des Instituts Saint—Luc de Liége et M.Bricart Président 
+du Comité Organisateur des Instituts Saint-Luc de Liége et M.Bricart Président 
 du Comité Organisateur des Instituts Saint-Luc de Liége au sujet des plaintes 
 déposées à ma charge pour non respect du droit à l'image et non respect 
 de la charte informatique du règlement de l'école.
@@ -61,9 +61,8 @@ de ses intuitions.
 
 ### Initialement
 Comme dans tout exercice, tout à commencé par un énoncé. Dans ce cas-ci, 
-il était assigné à une classe de Master 1 CVG en cours d'Images Numériques. 
-Il était demandé à ces étudiants de «Créer une campagne de sensibilisation 
-aux traces numériques que l’on laisse derrière soi, volontairement ou non». 
+il était assigné à une classe de _Master 1 CVG en cours d'Images Numériques_. 
+Il était demandé à ces étudiants de **«Créer une campagne de sensibilisation aux traces numériques que l’on laisse derrière soi, volontairement ou non»**. 
 Il était prévu que le résultat de nos travaux soie exposé durant au moins un an 
 sur un mur de l’école, choisi par les étudiants eux-même, ensemble. 
 Le public cible de cette campagne devait être les étudiants de St Luc qui passeront 
@@ -77,8 +76,7 @@ d'intentions des [projets](https://github.com/oogre/NOS-ORDINATEURS-DANGEREUX/bl
 17 étudiants sont inscrits à mon cours. Nous avons, en amont à cette production, 
 eu une discussion autour des responsabilités et des enjeux de la thématique que 
 nous abordions. Pour résumer, celle-ci nous engageait sur cette pensée : 
-«Nous faisons cela ni pour nuire, ni pour plaire, juste pour sentir 
-la matérialité des logiciels et plus particulièrement ceux qui nous font peur».
+**«Nous faisons cela ni pour nuire, ni pour plaire, juste pour sentir la matérialité des logiciels et plus particulièrement ceux qui nous font peur»**.
 
 Ma méthodologie d’enseignement consiste à accompagner la production de projets 
 individuels basés sur une thématique commune. Malgré notre volonté incessante 
@@ -94,13 +92,11 @@ notre démarche est saine car elle se développe dans un cadre pédagogique et
 que nos travaux se sont déroulée dans un local d'expérimentation informatique 
 sur des machines publiques tout en ne cherchant ni à nuire ni à plaire.
 
-De plus les données capturées ne sont qu’un prétexte. À aucun moment 
+De plus **les données capturées ne sont qu’un prétexte**. À aucun moment 
 il n’a s’agit de parler spécifiquement de quelqu’un en particulier. Mais derrière 
 ces mots, ces visages, c’est chacun de nous que nous mettions en scène afin 
 de questionner nos peur et nos rêves à propos des ordinateurs et des réseaux. 
-Vos images, vos mots ne sont pas ce que nous voulions montrer, le mode 
-de production-captation des ces images et de ces mots sont l'unique 
-propos de notre projets. Je vous prie de croire en mon honnêteté intellectuelle 
+Vos images, vos mots ne sont pas ce que nous voulions montrer, **le mode de production-captation des ces images et de ces mots sont l'unique propos de notre projets**. Je vous prie de croire en mon honnêteté intellectuelle 
 ainsi qu'en celle des étudiants ayant participé à mon cours. À aucun moment 
 nous n'avons cherché à apprendre quoi que ce soit sur quiconque, 
 à aucun moment nous n'avons chercher à nuire, à aucun moment nous n'avons 
@@ -113,8 +109,7 @@ des Droits de l’Homme. Sur le fondement des articles 8 et 10 de la Convention
 européenne de sauvegarde des Droits de l’Homme. Il faut reconnaître à la liberté 
 d’expression et au droit à l’image, le statut de droits fondamentaux qui mérite 
 à priori un égal respect.  De ce fait la portée du droit à l’image est amoindrie 
-dans certaines hypothèses. C'est a dire qu'il arrive que le droit à l’information 
-l’emporte sur le droit à l’image, et que le consentement de la personne ne 
+dans certaines hypothèses. C'est a dire qu'il arrive que **le droit à l’information l’emporte sur le droit à l’image**, et que le consentement de la personne ne 
 soit pas nécessaire pour la diffusion d’une image.   
 Il en est ainsi lorsque la photographie illustre :
 * **un sujet d’actualité** : le droit à l’image ne peut pas faire échec 
@@ -128,14 +123,13 @@ de société, sous la seule réserve du respect de la dignité
 de la personne humaine.
 * **l’image de la personne est accessoire par rapport à la photographie.**
 Cependant une limite demeure, les images diffusées dans ce cadre 
-ne doivent pas porter atteinte à la dignité humaine.
+**ne doivent pas porter atteinte à la dignité humaine**.
 
 Je n'arrive pas à imaginer l'espace qu'occuperait l'archive complète des contrats relatif 
 au droit à l'image que nécessiterait notre ESA pour [cette page](https://www.facebook.com/search/str/ESA+Saint-Luc+Li%C3%A8ge/photos-keyword?epa=SEE_MORE) web si le cadre juridique 
 que je viens de citer n'existerait pas. N'est-ce pas aussi grâce à lui que cette [vidéo](https://www.youtube.com/watch?v=bvoIzZSDSGo) à nos 
 yeux ne pose pas de problème de droit à l'image ? Et pourtant, il me semble que 
-le sujet d'actualité qu'est la matérialité des logiciels informatique est 
-d'autant plus cruciale que n'importe quelle autre actualité tirée au hasard sur facebook.
+**le sujet d'actualité qu'est la matérialité des logiciels informatique est  d'autant plus cruciale** que n'importe quelle autre actualité tirée au hasard sur facebook.
 
 À la lumière de cet extrait, j'estime ne pas avoir enfreint la loi sur le droit à l'image, 
 car je soutienne que l'utilisation de vos images n'est qu'accessoire par rapport à la condition 
@@ -143,16 +137,14 @@ d'existence de cette vidéo. De plus sans preuve du contraire les images captée
 ne nuisent en rien à votre dignité humaine.
 
 Ce n'est pas pour autant que je me dédouane de toute responsabilité dans ce remue-ménage. 
-Il est certain qu'à l'avenir toute intervention sur les ordinateurs de l'école sera 
-signalée clairement, avant même l'entrée du local et dedans. Ce qui, pour le cas présent 
+**Il est certain qu'à l'avenir toute intervention sur les ordinateurs de l'école sera signalée clairement, avant même l'entrée du local et dedans**. Ce qui, pour le cas présent 
 à manqué et je ferai mieux la prochaine fois. De plus, une invitation sera officiellement envoyée 
 à chaque professeur afin de le convier ainsi que ses étudiants au vernissage qui suivra les futurs 
-productions mise en place dans le cadre de mon cours. Nous pourrons alors discuter calmement 
-des enjeux et des méthodes afin que chacun vous comme moi puissent améliorer sa compréhension 
+productions mise en place dans le cadre de mon cours. **Nous pourrons alors discuter calmement des enjeux et des méthodes** afin que chacun vous comme moi puissent améliorer sa compréhension 
 du monde et ses relations aux autres.
 
 ### Collaboration
-Tant qu'a parler d'avenir, cet histoire aura au moins servit à nous rencontrer, nous qui côtoyons ce local 210. 
+Tant qu'a parler d'avenir, **cet histoire aura au moins servit à nous rencontrer**, nous qui côtoyons ce local 210. 
 Je vous prie de croire en le faite que vous serez mis au courant des projets que nous mènerons avec mes futurs 
 étudiants sur les ordinateurs de la classe. N'hésitez à l'avenir jamais à me faire part d'une façon au d'une autre 
 de remarques que vous voudriez formuler au sujet de mes activités. Je suis toujours ravi de discuter 
@@ -163,9 +155,7 @@ Je perçois qu’un lien de confiance, que je pense exister naturellement entre
 Je me demande néanmoins, s’il n’a jamais existé? Car après tout, avec combien de de gens, qui aujourd’hui portent plainte, 
 a-ton seulement eu une discussion. Celle-ci j’en fais le pari, aurait-été la solution, avant d’annoncer publiquement avoir trouvé 
 «le responsable de ce piratage». Il n'a jamais été question ni de piratage ni d'espionnage. Car des personnes ayant été enregistrées 
-par nos dispositifs, nous ne connaissons rien et nous ne désirions rien savoir. J'espère qu'à l'avenir, par la discussion,
-nous pourrons tisser ensemble ce lien de confiance nécéssaire au développement d'une pédagogie 
-ouverte sur les enjeux de demain.
+par nos dispositifs, nous ne connaissons rien et nous ne désirions rien savoir. **J'espère qu'à l'avenir, par la discussion, nous pourrons tisser ensemble ce lien de confiance nécéssaire au développement d'une pédagogie et d'un art ouvert sur les enjeux de demain**.
 
 ### Responsabilité
 ﻿﻿Je vous prie également de croire en l'acharnement qui m'anime lorsqu'il s'agit de garder en excellent ordre 
@@ -175,8 +165,7 @@ Vous avez ici ma parole qui m'engage à la remettre en état de marche dans les 
 
 J'aimerai encore ajouté un point, sur lequel, avec peu d'entre vous, j'ai pu m'entretenir. 
 Il s'agit de l'utilisation ou la production de logiciels dangereux. Si vous ne devez retenir qu'une seul chose 
-de ma pratique, c'est que je ne suis pas suffisamment fou pour installer n'importe quoi sur des machines 
-ne m'appartenant pas. Tous les logiciels utilisés, installés et programmés dans le cadre de mon cours sont Open Source. 
+de ma pratique, c'est que **je ne suis pas suffisamment fou pour installer n'importe quoi sur des machines ne m'appartenant pas**. Tous les logiciels utilisés, installés et programmés dans le cadre de mon cours sont Open Source. 
 Ce qui dans l'absolu ne garanti rien. Mais dans mon cas précisément, cela signifie que j'ai étudié leur code source 
 et que rien en dehors des actions attendue ne pourra mettre à mal ma crédibilité de développeur informatique. 
 Si je décide de faire suffisamment confiance à un programme pour l'exécuter, c'est que soit je le connais, 
@@ -196,8 +185,7 @@ misent soigneusement en scène dans le lieu d'exposition, soit détruite.
 Je reconnais la sensibilité de la thématique abordée. Aussi, j'aurais du vérifier que nul trace de nos interventions 
 ne restait sur les machines de l'école. Malgré cette erreur de ma part, notez bien que les logiciels et données 
 n'ont pas pu être localisés même par les gestionnaires du parc informatique. Ceux-ci ont nécessité ma collaboration 
-pleine volontaire. Néanmoins je souhaite ici mettre en avant que les données n'auraient pas pu être accessible 
-par hasard. Également soyez assuré que mon intention n'a toujours été que, celle que nous nous sommes fixé 
+pleine volontaire. Néanmoins je souhaite ici mettre en avant que **les données n'auraient pas pu être accessible par hasard**. Également soyez assuré que mon intention n'a toujours été que, celle que nous nous sommes fixé 
 avec mes étudiants : Ne pas chercher à plaire, ne pas chercher à nuire, juste sentir et donner à sentir la matérialité 
 des logiciels informatiques.
 
@@ -223,14 +211,14 @@ et j'entend améliorer cela.
 Je tiens encore à ajouter un point. Si par mégarde et malgré ma volonté de na pas nuire, 
 il se trouve qu'après ce texte, il reste quelqu'un qui se sent encore blessé dans cette histoire. 
 Je tiens à lui adresser personnellement ces mots que je gonfle d'empathie et de respect : 
-«Je suis désolé que votre visage se trouve dans ma vidéo. 
-Je ne pensais pas avec si peu de chose, vous faire aussi mal.»
+**«Je suis désolé que votre visage se trouve dans ma vidéo. Je ne pensais pas avec si peu de chose, vous faire aussi mal.»**
 
 Au risque de me répéter, je vous prie de ne jamais hésiter à venir vers moi directement, 
 s'il resterait des points à éclaircir, par omission ou par manque de clairvoyance de ma part 
 vis à vis de votre position dans cette histoire.
 
-Vincent Evrard
+Très cordialement,
+**Vincent Evrard**
 
 PS : Je me fais la voie du CA en vous demandant de rapporter ce texte tant que faire se peux à vos étudiants.
 
