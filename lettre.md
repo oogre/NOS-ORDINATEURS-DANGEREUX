@@ -86,8 +86,8 @@ de voir leur intimité atteinte par des logiciels produit de façons mal intent
 
 ### Le cadre
 Il semble, et je peux le comprendre en dehors d'un cadre de recherche, 
-que nos productions aient pu choquer. De mon point de vue que partagent 
-plusieurs collègues et direction d'autres écoles (ESA Bruxelles, ESA Tournai, ERG) 
+que nos productions aient pu choquer. De mon point de vue, que partagent 
+plusieurs collègues et direction d'autres écoles (ESA Bruxelles, ESA Tournai, ERG), 
 notre démarche est saine car elle se développe dans un cadre pédagogique et 
 que nos travaux se sont déroulée dans un local d'expérimentation informatique 
 sur des machines publiques tout en ne cherchant ni à nuire ni à plaire.
@@ -178,9 +178,9 @@ Un logiciel est neutre et dénué d'intention par contre son auteur/créateur ne
 ### Les traces
 Encore un fois, afin de rassurer je tiens à souligner que aucune donnée compromettante n’a été publiée, 
 à ma connaissance rien de compromettant n'à été enregistré. Toutes les données enregistrées avant ou après 
-production des différents supports exposé, n’ont pas de valeur à nos yeux, le sujet est ailleurs et je m'en suis expliqué. 
+production des différents supports exposés, n’ont pas de valeur à nos yeux, le sujet est ailleurs et je m'en suis expliqué. 
 Les données collectées ont tout de même une signification et je reconnais leurs sensibilités. Elles ont donc été soit 
-misent soigneusement en scène dans le lieu d'exposition, soit détruite.
+misent soigneusement en scène dans le lieu d'exposition, soit détruites.
 
 Je reconnais la sensibilité de la thématique abordée. Aussi, j'aurais du vérifier que nul trace de nos interventions 
 ne restait sur les machines de l'école. Malgré cette erreur de ma part, notez bien que les logiciels et données 
@@ -225,7 +225,7 @@ PS : Je me fais la voie du CA en vous demandant de rapporter ce texte tant que f
 PPS : Les différents liens de ce courrier redirigent vers des documents de travail, je vous prie de prendre cela en considération,
 certains contenus accessible en fouillant un peu ne reflètent pas ma position actuelle et ne pourrons en aucun cas être retenu 
 à ma charge. Je suis sur que vous pouvez comprendre cela, au vue de la suite des événements, je suis passé par plusieurs 
-émotions fort différentes et cela laisse des traces, qui je pense peuvent être propice à des réflexions personnels ultérieurs. 
+émotions fort différentes et cela laisse des traces, qui je pense peuvent être propice à des réflexions personnelles ultérieurs. 
 Voila donc pourquoi, je tiens à ce que celles-ci soit conservées.
 
 PPPS : Tous les documents que j'ai pu produire ayant une relation avec cette affaire sont sous licence [CC-by-nc-sa](https://creativecommons.org/licenses/by-nc-sa/4.0/)
